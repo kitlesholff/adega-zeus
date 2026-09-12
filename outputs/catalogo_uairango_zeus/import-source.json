@@ -1,0 +1,3452 @@
+[
+  {
+    "category": "COPÃO 700ML",
+    "name": "ABSOLUT",
+    "description": null,
+    "option": "700ML",
+    "price": 30,
+    "previous": null,
+    "id": 3529147,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "ABSOLUT COM RED BULL",
+    "description": null,
+    "option": "700ML",
+    "price": 40,
+    "previous": null,
+    "id": 3529149,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "Bob Pinga",
+    "description": null,
+    "option": "700ML",
+    "price": 20,
+    "previous": null,
+    "id": 3605815,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "Busca Brisa",
+    "description": null,
+    "option": "700ML",
+    "price": 25,
+    "previous": null,
+    "id": 3605791,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "CAVALO BRANCO",
+    "description": null,
+    "option": "700ML",
+    "price": 30,
+    "previous": null,
+    "id": 3529143,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "CAVALO BRANCO COM RED BULL",
+    "description": null,
+    "option": "700ML",
+    "price": 35,
+    "previous": null,
+    "id": 3529145,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "GIN ETERNITY COCO E AÇAI",
+    "description": null,
+    "option": "700ML",
+    "price": 15,
+    "previous": null,
+    "id": 3529131,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "GIN ETERNITY MAÇÃ VERDE",
+    "description": null,
+    "option": "700ML",
+    "price": 15,
+    "previous": null,
+    "id": 3529129,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "GIN ETERNITY MELANCIA",
+    "description": null,
+    "option": "700ML",
+    "price": 15,
+    "previous": null,
+    "id": 3529123,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "GIN ETERNITY TROPICAL",
+    "description": null,
+    "option": "700ML",
+    "price": 15,
+    "previous": null,
+    "id": 3529125,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "MALIBU",
+    "description": null,
+    "option": "700ML",
+    "price": 25,
+    "previous": null,
+    "id": 3529135,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "RED LABEL",
+    "description": null,
+    "option": "700ML",
+    "price": 35,
+    "previous": null,
+    "id": 3529137,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "RED LABEL COM RED BULL",
+    "description": null,
+    "option": "700ML",
+    "price": 40,
+    "previous": null,
+    "id": 3529139,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "SMIRNOFF",
+    "description": null,
+    "option": "700ML",
+    "price": 25,
+    "previous": null,
+    "id": 3529151,
+    "image": null
+  },
+  {
+    "category": "COPÃO 700ML",
+    "name": "SMIRNOFF COM RED BULL",
+    "description": null,
+    "option": "700ML",
+    "price": 35,
+    "previous": null,
+    "id": 3529153,
+    "image": null
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "brahma chopp  lata 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 5,
+    "previous": null,
+    "id": 3477643,
+    "image": null
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Eisenbahn 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 5.5,
+    "previous": null,
+    "id": 3518961,
+    "image": null
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Heineken zero 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 8,
+    "previous": null,
+    "id": 3440229,
+    "image": null
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Imperio Ultra 350ml (sem glutem)",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 3453573,
+    "image": null
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Lata Brahma Duplo Malte 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6.5,
+    "previous": null,
+    "id": 1233949,
+    "image": "ca4a524043c84e97abee0e8af0fdd1f6_min.png"
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Lata Budweiser 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 1233951,
+    "image": "c12ab925f8b099a982c003a2825f4409_min.png"
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Lata Heineken 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6.5,
+    "previous": null,
+    "id": 1233953,
+    "image": "f0342e5a3bfac9bede181920fef439e6_min.png"
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Lata Itaipava 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 4,
+    "previous": null,
+    "id": 1233957,
+    "image": "e3fdc7af069973ea48220eceecc24d5b_min.png"
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Lata Original 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 1573177,
+    "image": "19ed7e5b3264442fd7efe13c522097ef_min.png"
+  },
+  {
+    "category": "CERVEJA LATA",
+    "name": "Lata skol 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 5,
+    "previous": null,
+    "id": 1233961,
+    "image": "b834db13c773b5009d2a88b9d540e2b9_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "Fardo Brahma 350ml",
+    "description": "12 unid",
+    "option": "Unico",
+    "price": 55,
+    "previous": null,
+    "id": 1573163,
+    "image": "0982aec17d43e7ca40976a8e37b92111_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "fardo brahma duplo malte 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 65,
+    "previous": null,
+    "id": 2819883,
+    "image": "5cb79343158c8dadbc79660703bc8c89_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "Fardo Budweiser",
+    "description": null,
+    "option": "Unico",
+    "price": 60,
+    "previous": null,
+    "id": 1235563,
+    "image": "1817b328547d22a759e2e62c5f4c5728_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "FARDO Eisenbahn 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 50,
+    "previous": 60,
+    "id": 3518959,
+    "image": null
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "Fardo Itaipava",
+    "description": null,
+    "option": "Unico",
+    "price": 40,
+    "previous": null,
+    "id": 1235593,
+    "image": "b5fe355a62cbd799c10c406297a9ab74_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "Fardo Original 350ml",
+    "description": "12 unid",
+    "option": "Unico",
+    "price": 63,
+    "previous": null,
+    "id": 1573173,
+    "image": "976d7296c65f7730240f7b50f5f49e40_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "fardo skol 269ml 15 unid",
+    "description": null,
+    "option": "Unico",
+    "price": 54,
+    "previous": null,
+    "id": 1554465,
+    "image": "c763b10c0f40b0c028533d34a663d424_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "fardo skol 350ml",
+    "description": "12 unidades",
+    "option": "Unico",
+    "price": 52,
+    "previous": null,
+    "id": 1235601,
+    "image": "d0414b7aa2bbbf6e020c43ab054d6dc3_min.png"
+  },
+  {
+    "category": "CERVEJA FARDO",
+    "name": "fardo skol 350ml com 18 unidades",
+    "description": null,
+    "option": "Unico",
+    "price": 72,
+    "previous": null,
+    "id": 3000481,
+    "image": "e870f8456ebd2b2a3017037ec8eab183_min.png"
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Amstel de long neck 355ml",
+    "description": null,
+    "option": "Unico",
+    "price": 8,
+    "previous": null,
+    "id": 3062381,
+    "image": "4846f206b96951627f7358cc590d48c5_min.png"
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Cerveja PRAYA",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 3523109,
+    "image": null
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Eisenbahn 355ml",
+    "description": null,
+    "option": "Unico",
+    "price": 8,
+    "previous": null,
+    "id": 3518977,
+    "image": null
+  },
+  {
+    "category": "LONG NECK",
+    "name": "ice smirnoff",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3285923,
+    "image": null
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Imperio Larger verde puro malt",
+    "description": null,
+    "option": "Unico",
+    "price": 7,
+    "previous": null,
+    "id": 3595959,
+    "image": null
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Imperio Ultra 275ml (sem glutem)",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 3595957,
+    "image": null
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Long neck Budweiser",
+    "description": null,
+    "option": "Unico",
+    "price": 8.5,
+    "previous": null,
+    "id": 1236419,
+    "image": "53b2715c27778930c3ebf12d4f4b1371_min.png"
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Long neck Heineken",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 1236429,
+    "image": "6b3007defe287a1aade2d5c1b9e900ee_min.png"
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Stella Artois",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1236421,
+    "image": "ec79136c770d8583081ffecf9c8b0bc0_min.png"
+  },
+  {
+    "category": "LONG NECK",
+    "name": "Stella Artois Pure Gold (Sem Glutem)",
+    "description": null,
+    "option": "Unico",
+    "price": 13,
+    "previous": null,
+    "id": 3613929,
+    "image": null
+  },
+  {
+    "category": "BALLENA",
+    "name": "BALENNA DE COCO",
+    "description": null,
+    "option": "GARRAFA",
+    "price": 190,
+    "previous": null,
+    "id": 3529167,
+    "image": null
+  },
+  {
+    "category": "BALLENA",
+    "name": "BALENNA DE MORANGO",
+    "description": null,
+    "option": "GARRAFA",
+    "price": 190,
+    "previous": null,
+    "id": 3529165,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Cabare Ice Limao long neck",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 1238929,
+    "image": "6749e58052c8d50ae5fd4bd282c60d33_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Copo de Gin Eternity Melancia",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 3529109,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "ice leev limao",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 2376835,
+    "image": "b4af551eadd8d4f0fcdbc25c25ce5fa8_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Ice leev maçã verde",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 3377701,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "ice leev maracuja",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 2815981,
+    "image": "5fb162b3d2dff3564e564263eddedb39_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "ice leev melancia",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 3595963,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "ice leev morango",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 2376833,
+    "image": "8935b6a3cd195e451f775c84a75ea979_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Jack And Coke",
+    "description": null,
+    "option": "Unico",
+    "price": 10,
+    "previous": null,
+    "id": 3529003,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Mix para drink morango (coco leve)  200ml",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3408125,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Ready gin Melancia",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 3595967,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Ready gin tonica",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 3595969,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Redady Gin Melancia",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 3595965,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Skol Beats GT Long Neck",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1360997,
+    "image": "e20289621aa835a5060646708f1aeb71_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "skol Beats long neck",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1360995,
+    "image": "c9dc964bb0610fc0d2cbe9f8bd201bd8_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Skol Beats Tropical Long Neck",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3507869,
+    "image": null
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Skol Beats, frutas vermelhas Long neck",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3113403,
+    "image": "b93b2e6361315805be2b92f4b646cdf6_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "sminorf ice long neck",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 2339815,
+    "image": "04c81b0fafda817b21e809dd549721d8_min.png"
+  },
+  {
+    "category": "DRINKS PRONTOS",
+    "name": "Xeque Mate",
+    "description": null,
+    "option": "Unico",
+    "price": 13,
+    "previous": null,
+    "id": 3664206,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo tanqueray",
+    "description": "acompanha 4 red bull 4 gelo 4 copo",
+    "option": "Único",
+    "price": 200,
+    "previous": null,
+    "id": 3073981,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo Jim Beam Honey",
+    "description": null,
+    "option": "Único",
+    "price": 190,
+    "previous": null,
+    "id": 3231171,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Bob Pinga",
+    "description": "1 Garrafa de Bb Pinga. 3 Monster Mago loco, 4 gelos skol Beats (tropical), 4 Copos",
+    "option": "Único",
+    "price": 125,
+    "previous": null,
+    "id": 3707904,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Busca Brisa",
+    "description": "1 Garrafa de Busca Brisa, 4 gelos de coco, 1 Bally 2L Coco e Açai e 4 copos",
+    "option": "Único",
+    "price": 90,
+    "previous": null,
+    "id": 3707898,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Busca Brisa 2",
+    "description": "1 Garrafa de Busca Brisa, 3 Monster Ultra, 4 Gelos de coco e 4 Copos",
+    "option": "Único",
+    "price": 125,
+    "previous": null,
+    "id": 3707902,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo Ballantaimes",
+    "description": "Acompanha energeticode sabor+4 gelos",
+    "option": "Único",
+    "price": 130,
+    "previous": null,
+    "id": 1273997,
+    "image": "c060f04e0444831a013976eca1d587ff_min.png"
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo Buchanans Deluxe",
+    "description": "acompanha 4 redbull e 4 gelo",
+    "option": "Único",
+    "price": 310,
+    "previous": null,
+    "id": 1722749,
+    "image": "ae57d4e029235e8fb57f5cc83e6d4cdb_min.png"
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo Cavalo",
+    "description": "Acompanha energético fluxo + 4 gelo de coco ou maracujá",
+    "option": "Único",
+    "price": 130,
+    "previous": null,
+    "id": 568627,
+    "image": "6f720c084aea3e058e01918df7465e20_min.png"
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo chivas regal 12 anos",
+    "description": "acompanha 4 gelo e 4 redbul",
+    "option": "Único",
+    "price": 280,
+    "previous": null,
+    "id": 1722819,
+    "image": "acf473d8d321e8f5c9259d058e80427d_min.png"
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo Gin Beefeater pink",
+    "description": "acompanha 4 redbull e 4 gelo",
+    "option": "Único",
+    "price": 190,
+    "previous": null,
+    "id": 2160131,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo GIN Beefeater Tradicional",
+    "description": "acompanha 4 gelo de coco , 4 red bull",
+    "option": "Único",
+    "price": 170,
+    "previous": null,
+    "id": 3093281,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo gin eternity  Açai e coco",
+    "description": "Acompanha , 4 gelos de coco , 4 copos 500m, 1 garrafa de gin, 1 garrafa de energetico 2 litros",
+    "option": "Único",
+    "price": 65,
+    "previous": null,
+    "id": 3407403,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo gin eternity  Maça verde",
+    "description": "Acompanha 4 gelos de maça verde, 4 copos 500 ml , uma garrafa de gin, uma garrafa de energetico 2 litros",
+    "option": "Único",
+    "price": 65,
+    "previous": null,
+    "id": 3407401,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo gin eternity  Melancia",
+    "description": "Acompanha 4 gelos de melancia, 4 copos 500 ml , um garrafa de gin, um garrafa de energetico 2litros",
+    "option": "Único",
+    "price": 65,
+    "previous": null,
+    "id": 3407399,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo Jack Daniels",
+    "description": "ACOMPANHA 4 GELO E 4 RED BULL",
+    "option": "Único",
+    "price": 250,
+    "previous": null,
+    "id": 1233935,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo Jack Daniels Blackbarry",
+    "description": "acompanha 4 redbull, 4 gelo",
+    "option": "Único",
+    "price": 290,
+    "previous": null,
+    "id": 2565329,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo jack daniels honey",
+    "description": "4 REDBULL 4 GELO",
+    "option": "Único",
+    "price": 250,
+    "previous": null,
+    "id": 2095265,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo Jack Maça Verde",
+    "description": "ACOMPANHA 4 GELO DE COCO E 4 RED BULL",
+    "option": "Único",
+    "price": 250,
+    "previous": null,
+    "id": 1233939,
+    "image": "dd629d3a952b286d4a425fddaf8fd49c_min.png"
+  },
+  {
+    "category": "COMBOS",
+    "name": "combo jim beam",
+    "description": null,
+    "option": "Único",
+    "price": 190,
+    "previous": null,
+    "id": 3231181,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo Master Gold",
+    "description": "acompanha 4 gelo e o energetico 2l",
+    "option": "Único",
+    "price": 60,
+    "previous": null,
+    "id": 1722045,
+    "image": "2b9b7b5b1ad50ed6b658c05c2cfb4c33_min.png"
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo Red Label",
+    "description": "Acompanha energético red bull+ 4  gelo de coco ou maracujá",
+    "option": "Único",
+    "price": 190,
+    "previous": null,
+    "id": 568637,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Combo smirnoff",
+    "description": "Acompanha energético + 4 gelo de coco ou maracujá",
+    "option": "Único",
+    "price": 90,
+    "previous": null,
+    "id": 568635,
+    "image": "15a2a047fd241201971e2a8a54a40c15_min.png"
+  },
+  {
+    "category": "COMBOS",
+    "name": "Gin eternit  maça verde  combo",
+    "description": "garrafa de gin, 4 copos, energético 2l, e 4 gelos do sabor da garrafa",
+    "option": "Único",
+    "price": 65,
+    "previous": null,
+    "id": 3244909,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "Gin maça verde eternit",
+    "description": "garrafa de gin, 4 copos, energético 2l, e 4 gelos do sabor da garrafa",
+    "option": "Único",
+    "price": 65,
+    "previous": null,
+    "id": 3244907,
+    "image": null
+  },
+  {
+    "category": "COMBOS",
+    "name": "OldParr",
+    "description": "garrafa de oldParr, 4 redbull, 4 gelo de côco e 4 copos",
+    "option": "Único",
+    "price": 280,
+    "previous": null,
+    "id": 3671966,
+    "image": null
+  },
+  {
+    "category": "Porções Zeus",
+    "name": "Contra Acebolado",
+    "description": "Contra filé com cebola",
+    "option": "UNICO",
+    "price": 65,
+    "previous": null,
+    "id": 3434307,
+    "image": null
+  },
+  {
+    "category": "Porções Zeus",
+    "name": "Nuggets",
+    "description": null,
+    "option": "UNICO",
+    "price": 49,
+    "previous": null,
+    "id": 3434309,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Gatorade Frutas Citricas 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 8,
+    "previous": null,
+    "id": 3507879,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Gatorade Laranja 500 ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 8,
+    "previous": null,
+    "id": 3507885,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Gatorade Uva 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 8,
+    "previous": null,
+    "id": 3507873,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Gatorade Zero 350ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3507883,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade ATAQUE PET 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559833,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade frutas tropicais 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559829,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade LARANJA 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559835,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade LIMÃO 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559837,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade MOUNTAIN BLAST 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559831,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade TANGERINA 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559839,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade UVA 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559843,
+    "image": null
+  },
+  {
+    "category": "Isotônico",
+    "name": "Powerade ZERO MOUNT BLAST 500ml",
+    "description": null,
+    "option": "Gatorade",
+    "price": 7,
+    "previous": null,
+    "id": 3559841,
+    "image": null
+  },
+  {
+    "category": "MANSAO MAROMBA",
+    "name": "MANSAO MAROMBA",
+    "description": null,
+    "option": "Vodka",
+    "price": 20,
+    "previous": null,
+    "id": 3475631,
+    "image": null
+  },
+  {
+    "category": "MANSAO MAROMBA",
+    "name": "MANSAO MAROMBA",
+    "description": null,
+    "option": "Tropical",
+    "price": 20,
+    "previous": null,
+    "id": 3475631,
+    "image": null
+  },
+  {
+    "category": "MANSAO MAROMBA",
+    "name": "MANSAO MAROMBA",
+    "description": null,
+    "option": "Whisk",
+    "price": 20,
+    "previous": null,
+    "id": 3475631,
+    "image": null
+  },
+  {
+    "category": "MANSAO MAROMBA",
+    "name": "MANSAO MAROMBA",
+    "description": null,
+    "option": "Melancia",
+    "price": 20,
+    "previous": null,
+    "id": 3475631,
+    "image": null
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Black Menta",
+    "description": null,
+    "option": "Unidade",
+    "price": 40,
+    "previous": null,
+    "id": 568561,
+    "image": "6f3438b019c3bab24abf0a2ed628eed0_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Chestefild Remix Wild",
+    "description": null,
+    "option": "Unidade",
+    "price": 15,
+    "previous": null,
+    "id": 1500113,
+    "image": "1dbb79cf78683790c72a052113f85bf9_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Egipt Box",
+    "description": null,
+    "option": "Unidade",
+    "price": 5,
+    "previous": null,
+    "id": 568581,
+    "image": "b4bd147d420a7a220dc1d42a00c09abf_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Gudan cravo",
+    "description": null,
+    "option": "Unidade",
+    "price": 40,
+    "previous": null,
+    "id": 568569,
+    "image": "540f9f037758265ffc1b97b27939e426_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Isqueiro Bic Grande",
+    "description": null,
+    "option": "Unidade",
+    "price": 8,
+    "previous": null,
+    "id": 1273439,
+    "image": "427412cdaa7e7b8274de0ca892a83f98_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Isqueiro Bic Pequeno",
+    "description": null,
+    "option": "Unidade",
+    "price": 6,
+    "previous": null,
+    "id": 1273437,
+    "image": "fda9907a3178a42888d14387d3d0430a_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Lucky Strike double fresh",
+    "description": null,
+    "option": "Unidade",
+    "price": 15.5,
+    "previous": null,
+    "id": 1013843,
+    "image": "0ad95e6a916108a1a73c3a52f4917767_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Lucky strike vermelho box",
+    "description": null,
+    "option": "Unidade",
+    "price": 15,
+    "previous": null,
+    "id": 3092351,
+    "image": "b2b87e86d88883b1dc3a0146539df0ee_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Lucky Strike Wild Mix Uva",
+    "description": null,
+    "option": "Unidade",
+    "price": 15,
+    "previous": null,
+    "id": 3513553,
+    "image": null
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Lucky Striker Azul",
+    "description": null,
+    "option": "Unidade",
+    "price": 15,
+    "previous": null,
+    "id": 3513555,
+    "image": null
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "malboro gold box",
+    "description": null,
+    "option": "Unidade",
+    "price": 17,
+    "previous": null,
+    "id": 2542841,
+    "image": "690e91dbd99536c457169b035ec237ff_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "malboro tropical fusion",
+    "description": null,
+    "option": "Unidade",
+    "price": 18,
+    "previous": null,
+    "id": 1013861,
+    "image": "80d1deaaa21f2e94867b5e3ac7d6e3a3_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "malboro vermelho box",
+    "description": null,
+    "option": "Unidade",
+    "price": 17,
+    "previous": null,
+    "id": 1013853,
+    "image": "26977d7f7900c1721415ea5bba585139_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "MARLBORO RED SELECTION BOX",
+    "description": null,
+    "option": "Unidade",
+    "price": 14,
+    "previous": null,
+    "id": 1013855,
+    "image": "799cac002205d3dbf0333450bbc2b38c_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Rotmans international double click",
+    "description": null,
+    "option": "Unidade",
+    "price": 16,
+    "previous": null,
+    "id": 1233899,
+    "image": "e596fe20c6bb82780b4252d1def8b449_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Rotmans Vermelho",
+    "description": null,
+    "option": "Unidade",
+    "price": 14,
+    "previous": null,
+    "id": 1013787,
+    "image": "34b51fbce33b7de5bd10de21ebbfcb1c_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Samarino Vermelho box",
+    "description": null,
+    "option": "Unidade",
+    "price": 7,
+    "previous": null,
+    "id": 568577,
+    "image": "eabcff57de23e07dc8538714b2eda0c2_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Sampoerna  menta",
+    "description": null,
+    "option": "Unidade",
+    "price": 18,
+    "previous": null,
+    "id": 1233925,
+    "image": "013dfa5ca51599c023fbe7563909844b_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "sampoerna cravo",
+    "description": null,
+    "option": "Unidade",
+    "price": 18,
+    "previous": null,
+    "id": 1013911,
+    "image": "09597022e26c98a9609405855f21d6f1_min.png"
+  },
+  {
+    "category": "CIGARROS / ISQUEIRO",
+    "name": "Terra Tombada de Menta",
+    "description": null,
+    "option": "Unidade",
+    "price": 10,
+    "previous": null,
+    "id": 3015455,
+    "image": "b1b4dd794f849b58f3275fc7a84cc904_min.png"
+  },
+  {
+    "category": "CHAMPANHE/ SIDRA/ ESPUMANTE",
+    "name": "celebrate",
+    "description": null,
+    "option": ".",
+    "price": 25,
+    "previous": null,
+    "id": 2896619,
+    "image": "6720e1ef3084df6ce8ea013762103bfa_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Fumo Flor do Norte",
+    "description": null,
+    "option": "Unidade",
+    "price": 9.5,
+    "previous": null,
+    "id": 1203129,
+    "image": "ba526bb4240b525ad3cf20a77340af70_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Fumo Juriti",
+    "description": null,
+    "option": "Unidade",
+    "price": 9,
+    "previous": null,
+    "id": 1203123,
+    "image": "86979d4b86e49dc38bfab5495bad5618_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Fumo Trevo",
+    "description": null,
+    "option": "Unidade",
+    "price": 10,
+    "previous": null,
+    "id": 1203127,
+    "image": "fafbf54648e864e03b809cc4e421ebd0_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Palheiro flor do norte",
+    "description": null,
+    "option": "Unidade",
+    "price": 15,
+    "previous": null,
+    "id": 2565221,
+    "image": "6f657c2a2cb0870f0a9d3ab9d651d631_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "palheiro flor do norte  5 unidades",
+    "description": null,
+    "option": "Unidade",
+    "price": 6,
+    "previous": null,
+    "id": 2339887,
+    "image": "c74f5b94a5de891671ff8efb39225a26_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Palheiro Flor Do Norte Classe A",
+    "description": null,
+    "option": "Unidade",
+    "price": 17,
+    "previous": null,
+    "id": 1500225,
+    "image": "7cf39beef653bfe5818a4fde320f7e79_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Palheiro Levissimo",
+    "description": null,
+    "option": "Unidade",
+    "price": 10.5,
+    "previous": null,
+    "id": 1239251,
+    "image": "0f752d143a8969145e722b2e35cc878d_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "palheiro terra tombada Menta",
+    "description": null,
+    "option": "Unidade",
+    "price": 12,
+    "previous": null,
+    "id": 3520051,
+    "image": null
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Palheiro Terra tombada uva",
+    "description": null,
+    "option": "Unidade",
+    "price": 12,
+    "previous": null,
+    "id": 2339885,
+    "image": "1bf3241a8d6adb0a934c8e30bc7f7921_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Papel em palha flor do norte",
+    "description": null,
+    "option": "Unidade",
+    "price": 4.5,
+    "previous": null,
+    "id": 1500421,
+    "image": "51821d960c89208a5b7c6d2883f8ef03_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "papel juriti 50 folhas",
+    "description": null,
+    "option": "Unidade",
+    "price": 3.5,
+    "previous": null,
+    "id": 2565199,
+    "image": "c5493cb50b374ea41d80fb2f2da2585d_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "papel trevo",
+    "description": null,
+    "option": "Unidade",
+    "price": 4.5,
+    "previous": null,
+    "id": 2565219,
+    "image": "7ede5a8853fe2f40d3fdcb976b88af99_min.png"
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Tabaco Tabashin Menta",
+    "description": null,
+    "option": "Unidade",
+    "price": 27,
+    "previous": null,
+    "id": 3562717,
+    "image": null
+  },
+  {
+    "category": "PALHEIROS / FUMOS/ FILTROS",
+    "name": "Tabaco Tabashin uva",
+    "description": null,
+    "option": "Unidade",
+    "price": 27,
+    "previous": null,
+    "id": 3562721,
+    "image": null
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Bob Pinga",
+    "description": null,
+    "option": "Único",
+    "price": 50,
+    "previous": null,
+    "id": 3605819,
+    "image": null
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Busca Brisa",
+    "description": null,
+    "option": "Único",
+    "price": 60,
+    "previous": null,
+    "id": 3605817,
+    "image": null
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Campari",
+    "description": null,
+    "option": "Único",
+    "price": 75,
+    "previous": null,
+    "id": 953557,
+    "image": "f0fbc45850a1d8de9b9dbcec5a3bb758_min.png"
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Canelinha",
+    "description": null,
+    "option": "Único",
+    "price": 40,
+    "previous": null,
+    "id": 568739,
+    "image": "b089ef4bc4e3b30f6f0fa1d4e5e500cb_min.png"
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Canelinha DA Rocha 275ml",
+    "description": null,
+    "option": "Único",
+    "price": 12,
+    "previous": null,
+    "id": 3337863,
+    "image": null
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "dreher",
+    "description": null,
+    "option": "Único",
+    "price": 35,
+    "previous": null,
+    "id": 2118163,
+    "image": "2a2da2b32afc5a935ad54e887f224cd3_min.png"
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Jurupinga",
+    "description": null,
+    "option": "Único",
+    "price": 40,
+    "previous": null,
+    "id": 953409,
+    "image": "f52939eb633528239739772bb73ceefc_min.png"
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Malibu",
+    "description": null,
+    "option": "Único",
+    "price": 75,
+    "previous": null,
+    "id": 1605341,
+    "image": "68403260725f5767679d366642790837_min.png"
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "tequila jose cuervo prata",
+    "description": null,
+    "option": "Único",
+    "price": 100,
+    "previous": null,
+    "id": 3209099,
+    "image": null
+  },
+  {
+    "category": "DESTILADOS",
+    "name": "Tequila tequiloko",
+    "description": null,
+    "option": "Único",
+    "price": 38,
+    "previous": null,
+    "id": 1239259,
+    "image": "45fc1e39f64b1ef05517be6e6815b703_min.png"
+  },
+  {
+    "category": "LICOR",
+    "name": "amarula",
+    "description": null,
+    "option": ".",
+    "price": 160,
+    "previous": null,
+    "id": 1605335,
+    "image": "051243c63e1cb32c5b0edfd1955307f1_min.png"
+  },
+  {
+    "category": "LICOR",
+    "name": "ballena",
+    "description": "creme de morango com tequila",
+    "option": ".",
+    "price": 190,
+    "previous": null,
+    "id": 2160159,
+    "image": "dd00f76c8100b4619937243184f3456f_min.png"
+  },
+  {
+    "category": "LICOR",
+    "name": "ballena de coco",
+    "description": null,
+    "option": ".",
+    "price": 190,
+    "previous": null,
+    "id": 3078107,
+    "image": "07adc6e9dc0447ff27f8e412634ae173_min.png"
+  },
+  {
+    "category": "LICOR",
+    "name": "Licor 43",
+    "description": null,
+    "option": ".",
+    "price": 200,
+    "previous": null,
+    "id": 1605333,
+    "image": "b2f0453ddee985dfd553496822783b91_min.png"
+  },
+  {
+    "category": "GIN",
+    "name": "Gin eternity maça verde",
+    "description": null,
+    "option": "Unico",
+    "price": 40,
+    "previous": null,
+    "id": 1681527,
+    "image": "2ec743cbdc92a9ee3cab717cab535a72_min.png"
+  },
+  {
+    "category": "GIN",
+    "name": "Beefeater Tradicional",
+    "description": null,
+    "option": "Unico",
+    "price": 110,
+    "previous": null,
+    "id": 3093265,
+    "image": "99bae1c8596ce9def0778af1184ed48b_min.png"
+  },
+  {
+    "category": "GIN",
+    "name": "Beefeater pink",
+    "description": null,
+    "option": "Unico",
+    "price": 120,
+    "previous": null,
+    "id": 2565331,
+    "image": "da087b8bbdf79799162f3200fa73525e_min.png"
+  },
+  {
+    "category": "GIN",
+    "name": "Gin Eternity coco/açai",
+    "description": null,
+    "option": "Unico",
+    "price": 40,
+    "previous": null,
+    "id": 3285865,
+    "image": null
+  },
+  {
+    "category": "GIN",
+    "name": "Gin Eternity frutas tropicais",
+    "description": null,
+    "option": "Unico",
+    "price": 40,
+    "previous": null,
+    "id": 1361159,
+    "image": "8e1e6ecf8fb66f20783d318ab00e50a0_min.png"
+  },
+  {
+    "category": "GIN",
+    "name": "gin eternity melancia",
+    "description": null,
+    "option": "Unico",
+    "price": 40,
+    "previous": null,
+    "id": 2565337,
+    "image": "2f42ea6d935c49b602b0739e0e07789e_min.png"
+  },
+  {
+    "category": "GIN",
+    "name": "Gin Tanqueray",
+    "description": null,
+    "option": "Unico",
+    "price": 160,
+    "previous": null,
+    "id": 1549869,
+    "image": "cea890f80b0d7da88d3eab589f4e92f2_min.png"
+  },
+  {
+    "category": "GIN",
+    "name": "Tanqueray Sevilla",
+    "description": null,
+    "option": "Unico",
+    "price": 180,
+    "previous": null,
+    "id": 3700240,
+    "image": null
+  },
+  {
+    "category": "VINHOS",
+    "name": "Chardonay Chileno",
+    "description": null,
+    "option": "Unico",
+    "price": 45,
+    "previous": null,
+    "id": 3619551,
+    "image": null
+  },
+  {
+    "category": "VINHOS",
+    "name": "Chardonay Chileno, Vinho branco",
+    "description": null,
+    "option": "Unico",
+    "price": 45,
+    "previous": null,
+    "id": 3619557,
+    "image": null
+  },
+  {
+    "category": "VINHOS",
+    "name": "Pergola suave",
+    "description": null,
+    "option": "Unico",
+    "price": 34,
+    "previous": null,
+    "id": 1238821,
+    "image": "5e993831be44cc2b0663294815d95dfc_min.png"
+  },
+  {
+    "category": "WISKHY",
+    "name": "Ballantaimes",
+    "description": null,
+    "option": "Unico",
+    "price": 100,
+    "previous": null,
+    "id": 3130571,
+    "image": null
+  },
+  {
+    "category": "WISKHY",
+    "name": "Ballantaimes Sunshine (abacaxi)",
+    "description": null,
+    "option": "Unico",
+    "price": 100,
+    "previous": null,
+    "id": 3221633,
+    "image": null
+  },
+  {
+    "category": "WISKHY",
+    "name": "Buchanans Deluxe",
+    "description": null,
+    "option": "Unico",
+    "price": 210,
+    "previous": null,
+    "id": 1722503,
+    "image": "a2de01a96930713cdd471d2eac7eb648_min.png"
+  },
+  {
+    "category": "WISKHY",
+    "name": "chivas regal 12 anos 1L",
+    "description": null,
+    "option": "Unico",
+    "price": 200,
+    "previous": null,
+    "id": 1722787,
+    "image": "52c41af8e6fb785eff1877b3b5660872_min.png"
+  },
+  {
+    "category": "WISKHY",
+    "name": "Jack Daniels",
+    "description": null,
+    "option": "Unico",
+    "price": 190,
+    "previous": null,
+    "id": 1236481,
+    "image": "715eeca932ece7a6f9adc50a9fb6daa1_min.png"
+  },
+  {
+    "category": "WISKHY",
+    "name": "Jack Daniels Apple",
+    "description": null,
+    "option": "Unico",
+    "price": 200,
+    "previous": null,
+    "id": 1239265,
+    "image": "3537321f643d303a868c20176587fb02_min.png"
+  },
+  {
+    "category": "WISKHY",
+    "name": "Jim Beam Honey",
+    "description": null,
+    "option": "Unico",
+    "price": 145,
+    "previous": null,
+    "id": 3231153,
+    "image": null
+  },
+  {
+    "category": "WISKHY",
+    "name": "Jim Beam tradicional",
+    "description": null,
+    "option": "Unico",
+    "price": 145,
+    "previous": null,
+    "id": 3231117,
+    "image": null
+  },
+  {
+    "category": "WISKHY",
+    "name": "master gold",
+    "description": null,
+    "option": "Unico",
+    "price": 30,
+    "previous": null,
+    "id": 3211649,
+    "image": null
+  },
+  {
+    "category": "WISKHY",
+    "name": "OldParr",
+    "description": null,
+    "option": "Unico",
+    "price": 180,
+    "previous": null,
+    "id": 3671962,
+    "image": null
+  },
+  {
+    "category": "WISKHY",
+    "name": "Red label",
+    "description": null,
+    "option": "Unico",
+    "price": 110,
+    "previous": null,
+    "id": 1236479,
+    "image": "72f6d4ee7f9ea0cc7edc45cc434b873e_min.png"
+  },
+  {
+    "category": "WISKHY",
+    "name": "White Horse 1L",
+    "description": null,
+    "option": "Unico",
+    "price": 100,
+    "previous": null,
+    "id": 1236477,
+    "image": "3aeef2e128b3f14e4b725aee3b92fe81_min.png"
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "cachaça  carreirinho",
+    "description": "Banana, coco, mel, artesanal",
+    "option": "Unico",
+    "price": 27,
+    "previous": null,
+    "id": 3061367,
+    "image": "7eee42f0ca9698725db06a5cb986673d_min.png"
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "Cachaça 51",
+    "description": null,
+    "option": "Unico",
+    "price": 30,
+    "previous": null,
+    "id": 1236447,
+    "image": "4f279e3280e29892f9835b6d2f4e0ff9_min.png"
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "Pitu Banana",
+    "description": null,
+    "option": "Unico",
+    "price": 10,
+    "previous": null,
+    "id": 3539047,
+    "image": null
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "Pitu de caju 350 ml",
+    "description": null,
+    "option": "Unico",
+    "price": 10,
+    "previous": null,
+    "id": 3408147,
+    "image": null
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "Pitu lata 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 10,
+    "previous": null,
+    "id": 1236451,
+    "image": "973486bce2ecc02c95ae4e633b7b00b4_min.png"
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "Pitu Limao 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 10,
+    "previous": null,
+    "id": 1236455,
+    "image": "fefba419769e73291f98c3a63bce55b7_min.png"
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "pitu mel e limao 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 10,
+    "previous": null,
+    "id": 2118117,
+    "image": "8e0758b6ed7b71a084908a5e40e20750_min.png"
+  },
+  {
+    "category": "CACHAÇA",
+    "name": "Velho Barreiro",
+    "description": null,
+    "option": "Unico",
+    "price": 35,
+    "previous": null,
+    "id": 1236449,
+    "image": "57b38d1b3b09fe068d461932168dc4ab_min.png"
+  },
+  {
+    "category": "VODKA",
+    "name": "Vodka Absolut 1L",
+    "description": null,
+    "option": "Unico",
+    "price": 100,
+    "previous": null,
+    "id": 1722333,
+    "image": "41b46ef619c9ebef05fe111eb7d856d2_min.png"
+  },
+  {
+    "category": "VODKA",
+    "name": "Vodka Sminorff",
+    "description": null,
+    "option": "Unico",
+    "price": 65,
+    "previous": null,
+    "id": 1326707,
+    "image": "6caa5c69985ed4b885aaeec3b8d05808_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "baly maça verde",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 2521557,
+    "image": "f945aed6164adcc3d627a6ca9599e85b_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "baly melancia 2L",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 1367939,
+    "image": "e99e88061572b9ba2a8a8050a1b4eabc_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "baly morango e  pesssego",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 2521559,
+    "image": "da5cee649038a5ab4d356b3ef4a2d99e_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "BALY Tradicional 2L",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 3286161,
+    "image": null
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "baly tropical",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 2521555,
+    "image": "1c256021184f4915a6e5746f23d75f7c_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Energético baly coco/açai",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 3285957,
+    "image": null
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "monster energy 473ml tradicional",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3309633,
+    "image": null
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster energy zero",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1822947,
+    "image": "336b65134b0ff4630445b19b4c57372a_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster Mango loco",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1822945,
+    "image": "c5471d0ba01b5efc865ac3a2a7c4f563_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster Mango loco Zero",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3507857,
+    "image": null
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster pêssego",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3093245,
+    "image": "fa072fb3ddb38a30781eeccbe04b9be6_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "monster pipeline punch",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 2354071,
+    "image": "ac685a786bdce1b7c67c6dbd4ef5373a_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster preto",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1236463,
+    "image": "52a22ff8a4df9706455bb9d042cb66c3_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster Rio Punch",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1236469,
+    "image": "43f43aa98ebbbe791a617ef39068498e_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster Strambery dream",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3479097,
+    "image": null
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster ultra",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1236465,
+    "image": "1973b5e7790ec87693f48aef1e6be29a_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Monster ultra Violet",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1236467,
+    "image": "e3539ac3b30245d1809694a604a71e1d_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "monster ultra watermelon",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 2354067,
+    "image": "5acb3d4949143acb411706a34c057962_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Red bull 250ml",
+    "description": null,
+    "option": "Unico",
+    "price": 13,
+    "previous": null,
+    "id": 1236461,
+    "image": "d821a48a9b7f52565892307088d8173d_min.png"
+  },
+  {
+    "category": "ENERGETICO",
+    "name": "Red bull Nectarina 250 ml",
+    "description": null,
+    "option": "Unico",
+    "price": 13,
+    "previous": null,
+    "id": 3040121,
+    "image": "89d1b443997e5c766d8c2f8238137e23_min.png"
+  },
+  {
+    "category": "GELO",
+    "name": "Gelo Abacaxi Cavalo branco",
+    "description": null,
+    "option": "Unico",
+    "price": 5,
+    "previous": null,
+    "id": 2333595,
+    "image": null
+  },
+  {
+    "category": "GELO",
+    "name": "Gelo de coco",
+    "description": null,
+    "option": "Unico",
+    "price": 5,
+    "previous": null,
+    "id": 1238789,
+    "image": "adfa6dc53fc71e1e47cd46a7b9c9fd96_min.png"
+  },
+  {
+    "category": "GELO",
+    "name": "Gelo de Maça Verde",
+    "description": null,
+    "option": "Unico",
+    "price": 5,
+    "previous": null,
+    "id": 1297873,
+    "image": "c090028af44e701a3d1491db02c8fd5a_min.png"
+  },
+  {
+    "category": "GELO",
+    "name": "Gelo em cubo 5kg",
+    "description": null,
+    "option": "Unico",
+    "price": 14,
+    "previous": null,
+    "id": 1260725,
+    "image": "961122d84fb5ea09a395e4f30362277f_min.png"
+  },
+  {
+    "category": "GELO",
+    "name": "Gelo Maracuja",
+    "description": null,
+    "option": "Unico",
+    "price": 5,
+    "previous": null,
+    "id": 1238793,
+    "image": "7dba0563602c63192c3d1b32f7ed3ed6_min.png"
+  },
+  {
+    "category": "GELO",
+    "name": "Gelo melancia",
+    "description": null,
+    "option": "Unico",
+    "price": 5,
+    "previous": null,
+    "id": 1844095,
+    "image": "da2d48575b8af0031556fbca6425963b_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca Cola zero  350ml lata",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 2819891,
+    "image": "8e934eb6d5d6b7c5fb37a6ce975c146b_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Agua 500ml",
+    "description": null,
+    "option": "Unico",
+    "price": 3.5,
+    "previous": null,
+    "id": 1240595,
+    "image": "ad57084dcff381edfdd56f041d305ddc_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "agua com gas 500ml",
+    "description": null,
+    "option": "Unico",
+    "price": 4,
+    "previous": null,
+    "id": 1907185,
+    "image": "1e92b57961651d6d9945aa94d3ddfcde_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola 2l",
+    "description": ".",
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 1239269,
+    "image": "4e4c22ea7f1101c8641e721626240e34_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola 2l zero",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 2819889,
+    "image": "86e58e79d15c51e183431f75122495ea_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola 600ml",
+    "description": null,
+    "option": "Unico",
+    "price": 9,
+    "previous": null,
+    "id": 1239275,
+    "image": "411f7aee95e855eaf78cd59a68b9552c_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola lata  350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 1239273,
+    "image": "97e227a747d1eb256572628109f7c2c4_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "coca cola lata 220 ml",
+    "description": null,
+    "option": "Unico",
+    "price": 3.5,
+    "previous": null,
+    "id": 3300237,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "coca cola lata zero 220ml",
+    "description": null,
+    "option": "Unico",
+    "price": 3.5,
+    "previous": null,
+    "id": 3300239,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola pet 200ml",
+    "description": null,
+    "option": "Unico",
+    "price": 3,
+    "previous": null,
+    "id": 1239309,
+    "image": "c51b1ad50399d7a8426a4ec7ba2e849c_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola pet zero 200ml",
+    "description": null,
+    "option": "Unico",
+    "price": 3,
+    "previous": null,
+    "id": 3047679,
+    "image": "47d850f898644747052fbe10e57c8e88_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola retornável",
+    "description": null,
+    "option": "Unico",
+    "price": 11,
+    "previous": null,
+    "id": 1239277,
+    "image": "b6b75240630120128d92e8d0ac7629ff_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Coca cola retornável zero",
+    "description": null,
+    "option": "Unico",
+    "price": 11,
+    "previous": null,
+    "id": 2815979,
+    "image": "55775b6b9cc01450a9f035a2b8ca5887_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Del vale caixa de 1l",
+    "description": "sabores: laranja, uva ou maracuja, uva ligh, abacaxi, manga com morango ou abacaxi com tangerina?",
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3093273,
+    "image": "e718d1e089338ce13a757d21ae175fb4_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Del Valle 1,5",
+    "description": "laranja, limão e uva",
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3310323,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Fanta laranja 2L",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1239295,
+    "image": "e150ac4e29c460501308d43ad75006ff_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Fanta Laranja 600ml",
+    "description": null,
+    "option": "Unico",
+    "price": 7,
+    "previous": null,
+    "id": 3281327,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Fanta laranja lata 350m",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 1239297,
+    "image": "17d877913ea651918d3575aeaaf0d44c_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Fanta Maracuja 350 ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 3521327,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Fanta Uva 220ml",
+    "description": null,
+    "option": "Unico",
+    "price": 3.5,
+    "previous": null,
+    "id": 3507935,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Fanta uva 2L",
+    "description": ".",
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1239301,
+    "image": "33e91b245566309a4094fed9e6a06efc_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Fanta uva lata 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 1239303,
+    "image": "1c1a763dce0735a817672d2568313a7a_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "KAPO",
+    "description": "Abacaxi, Maracujá, Laranja, Uva, morango, maça",
+    "option": "Unico",
+    "price": 4,
+    "previous": null,
+    "id": 3281607,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "kuat 2l",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 3299887,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Powerade MOUNTAIN BLAST 500ml",
+    "description": null,
+    "option": "Unico",
+    "price": 7,
+    "previous": null,
+    "id": 3370383,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "schweppes citrus lata 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6.5,
+    "previous": null,
+    "id": 1907997,
+    "image": "4a184aa975b1d33268cba2877bb0b3ab_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Sprite 2l",
+    "description": null,
+    "option": "Unico",
+    "price": 12,
+    "previous": null,
+    "id": 1239311,
+    "image": "417f81f387909d4427727e88c281d616_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "sprite lata 220ml",
+    "description": null,
+    "option": "Unico",
+    "price": 3.5,
+    "previous": null,
+    "id": 3300243,
+    "image": null
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Sprite Lata 350ml",
+    "description": null,
+    "option": "Unico",
+    "price": 6,
+    "previous": null,
+    "id": 1239313,
+    "image": "4436dbf6688de8c4d10d5e16fe8773af_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "Suco del vale lata 290ml",
+    "description": "sabores disponivel : goiaba, uva, laranja, manga, pessego, limonada tropical, pink limonade, maracuja",
+    "option": "Unico",
+    "price": 8,
+    "previous": null,
+    "id": 1907181,
+    "image": "189423114970b466d71d6ac8d6db8309_min.png"
+  },
+  {
+    "category": "REFRIGERANTES, AGUA E SUCOS",
+    "name": "toddynho achocolatado",
+    "description": null,
+    "option": "Unico",
+    "price": 4,
+    "previous": null,
+    "id": 2971117,
+    "image": "e6b848f108091f17c3d61cb30cbacfec_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Salgadinho Cheetos grande",
+    "description": "Sabores disponiveis:  Lua, mix de queijo.\n\n( informar o sabor em observação)",
+    "option": "Único",
+    "price": 17,
+    "previous": null,
+    "id": 1240645,
+    "image": "b0da183e9b0bb08cb98cd94cec68e5b9_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Salgadinho Fandangos grande 85g",
+    "description": "sabores disponível: presunto e queijo",
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 1240643,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "amendoim salgado kaçulinha",
+    "description": "sabores: alho e bacon",
+    "option": "Único",
+    "price": 3.5,
+    "previous": null,
+    "id": 3274345,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Amendoin Japones",
+    "description": null,
+    "option": "Único",
+    "price": 10,
+    "previous": null,
+    "id": 1240631,
+    "image": "bcb83811e3888340109b45f3bad7daf6_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Amendoin Ovinho",
+    "description": null,
+    "option": "Único",
+    "price": 9.5,
+    "previous": null,
+    "id": 1240633,
+    "image": "d25243c6def8f0ee36a76492b154a59b_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Baconzitos 86 g",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3406827,
+    "image": "1ba06125b092b9dd7a89b3621c330c4b_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "bala lua cheia",
+    "description": "Baunilha, chocolate , brigadeiro, choc branco",
+    "option": "Único",
+    "price": 0.2,
+    "previous": null,
+    "id": 3279399,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "bala yogurte",
+    "description": null,
+    "option": "Único",
+    "price": 0.2,
+    "previous": null,
+    "id": 3362239,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Biscoito Passatempo morango",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 1681307,
+    "image": "bb76430dc30dd1906f2b146622109905_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cajuzinho",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3456671,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cheetos assado  parmesão 80g",
+    "description": null,
+    "option": "Único",
+    "price": 17,
+    "previous": null,
+    "id": 3406817,
+    "image": "5ed19e4bb27f652fee2fdf26355979df_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cheetos assado mix de queijos 70 g",
+    "description": null,
+    "option": "Único",
+    "price": 17,
+    "previous": null,
+    "id": 3406821,
+    "image": "0e5bd06c42f170ff42d79b8e29e15b11_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cheetos assado parmesão 40g",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3406773,
+    "image": "17a948ea021f13a3173712b0061b201e_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cheetos assado requeijao 39g",
+    "description": "uva, laranja",
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3092453,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cheetos queijo suíço 37g",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3406791,
+    "image": "f665e96d0a14458003ec69e0c284e5c3_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cheetos requeijão 160 g",
+    "description": null,
+    "option": "Único",
+    "price": 28,
+    "previous": null,
+    "id": 3406783,
+    "image": "0d5c8becfa93eae8465dbba990972e58_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Cheetos requeijão 90 g",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3406813,
+    "image": "95adb515057459a8447aa31a3764b25d_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Chiclete Crooc Buzzy",
+    "description": "uva,morango,7 belo, hortalã",
+    "option": "Único",
+    "price": 0.6,
+    "previous": null,
+    "id": 568811,
+    "image": "605c799351129930d6bccb3e7d71d303_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "doritos 75g",
+    "description": null,
+    "option": "Único",
+    "price": 18,
+    "previous": null,
+    "id": 2563717,
+    "image": "a55bfdb83e0cbcecb7d7a11a836e4b14_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Doritos Dinamita Flamin Hot 60g",
+    "description": null,
+    "option": "Único",
+    "price": 8,
+    "previous": null,
+    "id": 3479073,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Doritos Dinamita Pimenta Mex. 60g",
+    "description": null,
+    "option": "Único",
+    "price": 8,
+    "previous": null,
+    "id": 3479077,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Doritos Sweet Chili",
+    "description": null,
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 3567541,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fandangos  sabor presunto 160",
+    "description": null,
+    "option": "Único",
+    "price": 27,
+    "previous": null,
+    "id": 3406829,
+    "image": "53530513c9de3bbd18cffce6b0e942f6_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fandangos de churrasco 37g",
+    "description": null,
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 3635753,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fandangos de queijo 37g",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3406901,
+    "image": "dbda086e43835b3a3a18d8a6b4201dc6_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fandangos sabor queijo 85g",
+    "description": null,
+    "option": "Único",
+    "price": 13,
+    "previous": null,
+    "id": 3406835,
+    "image": "033f54a6defa45e16cd4419fc82cb4d1_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fini Bananas 15g",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3528965,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fini Marsh Torção Pacote Grande",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3528983,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fini Tubes Morango 15g",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3528957,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fini Tubes Tutti Frutti 15g",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3528969,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fofura",
+    "description": "sabores disponiveis : churrasco, cebola, presunto\n\n(informar em observação o sabor)",
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 568777,
+    "image": "0caa395260763c085d6c1111a264efa6_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fofura churrasco 60g",
+    "description": null,
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 3406897,
+    "image": "d761e65c1f437e2a4ecf67ae09c423ab_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fofura presunto 60g",
+    "description": null,
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 3406895,
+    "image": "e8e9359ee88efc71cbefc18d40d275db_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Fruitella Morango Vita Goma",
+    "description": null,
+    "option": "Único",
+    "price": 7,
+    "previous": null,
+    "id": 3528933,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Frutella Morrango Bala",
+    "description": null,
+    "option": "Único",
+    "price": 7,
+    "previous": null,
+    "id": 3528937,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Halls",
+    "description": "sabores disponiveis: , extra forte , melancia, menta , cereja, maça verde, morango ,\n\n(informar o sabor em observação)",
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 1240617,
+    "image": "c44c5b9877d0df9c6b92232a595c489e_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Lays Sal e Vinagre",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3479069,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Lays sour cream",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3519449,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Lays tradicional",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3479067,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Mentos Frutas Vermelhas",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3528939,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Mentos Pure fruit 3 camadas",
+    "description": null,
+    "option": "Único",
+    "price": 5.5,
+    "previous": null,
+    "id": 3528917,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Mentos Rainbow Stick",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3528927,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Mentos Salada de fruta",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3528985,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "paçocão",
+    "description": null,
+    "option": "Único",
+    "price": 3.5,
+    "previous": null,
+    "id": 3274337,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "pe de moça",
+    "description": null,
+    "option": "Único",
+    "price": 3.5,
+    "previous": null,
+    "id": 3274335,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "pe de moleke",
+    "description": null,
+    "option": "Único",
+    "price": 3.5,
+    "previous": null,
+    "id": 3274333,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Pirulito",
+    "description": null,
+    "option": "Único",
+    "price": 1.5,
+    "previous": null,
+    "id": 1240621,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Pirulito",
+    "description": "morango ou melancia",
+    "option": "Único",
+    "price": 2,
+    "previous": null,
+    "id": 3103921,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Ruffles 32g",
+    "description": "sabores disponiveis: churrasco, original, cebola e salsa.\n\ninformar o sabor em observação",
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 1240659,
+    "image": "677da9bbe502d77d37106bf02771a186_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Ruffles cebola e salsa 32 g",
+    "description": null,
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 3406871,
+    "image": "b6989e088cb6bca7ff6d56ba563cb025_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Ruffles cebola e salsa 68g",
+    "description": null,
+    "option": "Único",
+    "price": 12,
+    "previous": null,
+    "id": 3406927,
+    "image": "31e70e3827b0d3f355329a09ea7295c6_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Ruffles churrasco 32g",
+    "description": null,
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 3406875,
+    "image": "3f9500574fd08eb293626b679269f6ab_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Ruffles original 32g",
+    "description": null,
+    "option": "Único",
+    "price": 6,
+    "previous": null,
+    "id": 3406867,
+    "image": "6f9b86b78d11ce12de590b25636c4301_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Ruffles Original grande 115 g",
+    "description": null,
+    "option": "Único",
+    "price": 24,
+    "previous": null,
+    "id": 1240663,
+    "image": "cb5b90d88761aed025f55dc116abbe5a_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Senações peito de peru 70g",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3519469,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Sensações frango grelhado 40g",
+    "description": null,
+    "option": "Único",
+    "price": 8.5,
+    "previous": null,
+    "id": 3406839,
+    "image": "80adc8575e9880d91e62b29b82cb9796_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Sensações frango grelhado 70g",
+    "description": null,
+    "option": "Único",
+    "price": 15,
+    "previous": null,
+    "id": 3519463,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Torcida",
+    "description": "sabbores disponiveis: , queijo,cebola, , costelinha com limao, churrasco, pimenta mexicana, camarão",
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 1240635,
+    "image": "875d50b9246b80d7ce53b4f6e75bc57e_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Torcida bacon 35g",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3403563,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Torcida costelinha com limão 35g",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3403567,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Torcida de Pimenta",
+    "description": null,
+    "option": "Único",
+    "price": 4,
+    "previous": null,
+    "id": 3165003,
+    "image": "eee76a9aa0c5958d8f50caf1449fdbfa_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Torcida queijo 35g",
+    "description": null,
+    "option": "Único",
+    "price": 4.5,
+    "previous": null,
+    "id": 3403571,
+    "image": null
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "trakinas chocolate",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3403615,
+    "image": "95419e0a7ecc461d79612c67c073bcad_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "Trakinas Morango",
+    "description": null,
+    "option": "Único",
+    "price": 5,
+    "previous": null,
+    "id": 3403605,
+    "image": "583cfeee78351d1875b5db4ff0d0c65e_min.png"
+  },
+  {
+    "category": "SALGADINHOS E DOCES",
+    "name": "trident",
+    "description": "sabores disponivel, menta, melancia, hortela , morango, tutti frutti",
+    "option": "Único",
+    "price": 4.5,
+    "previous": null,
+    "id": 2074967,
+    "image": "39073a5bc028043a9b0524f4c887d83f_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "essecia ziggy banana tropical",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3373053,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ESSENCIA ZGY MORANGO TROPICAL",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3338323,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ESSENCIA ZGY WATERMELON BOMB (melancia)",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3338321,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "YOGURT",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3373055,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "zgy duas goiabas",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3353265,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ZGY FRESH 66",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3353267,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "zgy hapocalyx mint",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3353271,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "Ziggy Abacaxi Tropical",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 1540913,
+    "image": "f64c880c0e8e3ec1717d6b4ca9143498_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ziggy berry ( framboesa )",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3421717,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "Ziggy Cereja cherry",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 1540929,
+    "image": "e023ce05ec2938ca2e2164fe70926308_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ziggy corn magic ( milho verde)",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3291965,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ziggy duas goiabas",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 2087469,
+    "image": "8233a492239c80947b2855a974a51684_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ziggy duas maça verdes",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 2343575,
+    "image": "8bcb7b0f8cd3ad9656531fc6ece5e4f2_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ziggy Fresh 66",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3421719,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ziggy happy frutti",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 1540907,
+    "image": "6bf172d688c6763e7d0c4c3f9ad7b653_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "Ziggy mix morango e laranja",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 1769901,
+    "image": "6147cb0a3f6566b9257a3e38f79b707f_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ZIGGY sorvete de limao",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3071309,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "Ziggy yellow  Maracuja",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 1540901,
+    "image": "890187bc9fb456a281099139d86818ad_min.png"
+  },
+  {
+    "category": "ESSENCIA ZIGGY",
+    "name": "ZYG FRUTTI",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3338319,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZOMO",
+    "name": "Essencia zomo blueberry",
+    "description": "unidade",
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3393043,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZOMO",
+    "name": "Zomo  chiclete tutti fruti",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 3081777,
+    "image": null
+  },
+  {
+    "category": "ESSENCIA ZOMO",
+    "name": "zomo melancia atomica",
+    "description": null,
+    "option": ".",
+    "price": 15,
+    "previous": null,
+    "id": 1541047,
+    "image": "6657974051401ef1e5c3f1cfb08738a6_min.png"
+  },
+  {
+    "category": "RELACIONADO A TABACARIA",
+    "name": "Borracha mangueira",
+    "description": null,
+    "option": "Único",
+    "price": 3.5,
+    "previous": null,
+    "id": 3075645,
+    "image": null
+  },
+  {
+    "category": "RELACIONADO A TABACARIA",
+    "name": "Borracha Rosh",
+    "description": null,
+    "option": "Único",
+    "price": 4.5,
+    "previous": null,
+    "id": 3075647,
+    "image": null
+  },
+  {
+    "category": "RELACIONADO A TABACARIA",
+    "name": "Borracha Vaso",
+    "description": null,
+    "option": "Único",
+    "price": 5.5,
+    "previous": null,
+    "id": 3075649,
+    "image": null
+  },
+  {
+    "category": "RELACIONADO A TABACARIA",
+    "name": "Papel Aluminio 50 Folhas",
+    "description": null,
+    "option": "Único",
+    "price": 40,
+    "previous": null,
+    "id": 1240719,
+    "image": "800d38735829bd75d07335fa74daa0a5_min.png"
+  },
+  {
+    "category": "RELACIONADO A TABACARIA",
+    "name": "Papel Aluminio unid",
+    "description": null,
+    "option": "Único",
+    "price": 1.5,
+    "previous": null,
+    "id": 1240687,
+    "image": "21ecd3a840d9fb87e2b7e58ac0abbfd6_min.png"
+  },
+  {
+    "category": "HEAD SHOP",
+    "name": "blunt",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 1240089,
+    "image": "e6210b32d931062bf7c87d2b9580864d_min.png"
+  },
+  {
+    "category": "HEAD SHOP",
+    "name": "cuia de silicone",
+    "description": null,
+    "option": "Unico",
+    "price": 15,
+    "previous": null,
+    "id": 1834227,
+    "image": "26b720f3d0b45e36bcb56c0bafec4244_min.png"
+  },
+  {
+    "category": "HEAD SHOP",
+    "name": "Dichavador acrilico grande",
+    "description": null,
+    "option": "Unico",
+    "price": 20,
+    "previous": null,
+    "id": 3359057,
+    "image": null
+  },
+  {
+    "category": "HEAD SHOP",
+    "name": "Kit Tesoura e cuia to na bê",
+    "description": null,
+    "option": "Unico",
+    "price": 35,
+    "previous": null,
+    "id": 3359069,
+    "image": null
+  },
+  {
+    "category": "HEAD SHOP",
+    "name": "Piteira de vidro",
+    "description": null,
+    "option": "Unico",
+    "price": 25,
+    "previous": null,
+    "id": 3377713,
+    "image": null
+  },
+  {
+    "category": "HEAD SHOP",
+    "name": "slik",
+    "description": null,
+    "option": "Unico",
+    "price": 17,
+    "previous": null,
+    "id": 1834225,
+    "image": null
+  },
+  {
+    "category": "HEAD SHOP",
+    "name": "Tesoura TO NA BE",
+    "description": null,
+    "option": "Unico",
+    "price": 20,
+    "previous": null,
+    "id": 3359067,
+    "image": null
+  }
+]

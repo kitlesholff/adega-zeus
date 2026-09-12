@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+const rows=JSON.parse(await fs.readFile(new URL('./import-source.json',import.meta.url),'utf8'));
+const excluded=p=>/ESSENCIA/.test(p.category)||(/CIGARROS/.test(p.category)&&!/Isqueiro/i.test(p.name))||(/PALHEIROS/.test(p.category)&&!/^papel/i.test(p.name))||p.name==='blunt';
+const allowed=rows.filter(p=>!excluded(p));
+const queries=['Brahma','Eisenbahn','Heineken zero','Imperio','Praya','Stella Gold','Ballena','Smirnoff ice','Leev','Jack Coke','Ready','Skol Beats','Xeque Mate','Gatorade','Powerade','Mansao Maromba','Bob Pinga','Busca Brisa','Canelinha','Jose Cuervo','Eternity','Tanqueray','Ballantines','Jim Beam','Master Gold','Old Parr','Pitu','Baly','Monster','Coca Cola','Del Valle','Fanta','Kapo','Kuat','Sprite','Fandangos','amendoim','bala lua cheia','bala iogurte','Cajuzinho','Cheetos','Doritos','Fini','Fruitella','Lays','Mentos','pacoca','pe de moca','pe de moleque','pirulito','Sensacoes','Torcida','Nuggets','Beefeater'];
+const found=[];
+let cursor=0;
+await Promise.all(Array.from({length:4},async()=>{while(cursor<queries.length){const query=queries[cursor++];try{const url='https://www.supernosso.com/api/catalog_system/pub/products/search?ft='+encodeURIComponent(query)+'&_from=0&_to=49';const response=await fetch(url,{signal:AbortSignal.timeout(15000)});if(!response.ok)continue;const products=await response.json();for(const p of products)found.push({query,name:p.productName,url:p.link,image:p.items?.[0]?.images?.[0]?.imageUrl});}catch(e){console.log(query,e.message)}}}));
+await fs.writeFile(new URL('./image-candidates.json',import.meta.url),JSON.stringify(found,null,2));
+console.log(JSON.stringify({allowed:allowed.length,excluded:rows.length-allowed.length,originalImages:allowed.filter(p=>p.image).length,candidates:found.length}));
+for(const p of allowed.filter(p=>!p.image&&!/COMBOS|COPÃO/.test(p.category)))console.log(p.id+' '+p.name);

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "auth",
+    "status": 200,
+    "emailEnabled": true,
+    "signupDisabled": false,
+    "autoconfirm": false
+  },
+  {
+    "name": "catalog",
+    "status": 200,
+    "rows": 1
+  },
+  {
+    "name": "hidden_products",
+    "status": 200,
+    "rows": 0
+  },
+  {
+    "name": "orders",
+    "status": 401,
+    "code": "42501",
+    "message": "permission denied for table orders"
+  },
+  {
+    "name": "order_items",
+    "status": 401,
+    "code": "42501",
+    "message": "permission denied for table order_items"
+  },
+  {
+    "name": "expenses",
+    "status": 401,
+    "code": "42501",
+    "message": "permission denied for table expenses"
+  },
+  {
+    "name": "cash_closings",
+    "status": 401,
+    "code": "42501",
+    "message": "permission denied for table cash_closings"
+  },
+  {
+    "name": "cash_sessions",
+    "status": 401,
+    "code": "42501",
+    "message": "permission denied for table cash_sessions"
+  },
+  {
+    "name": "cash_movements",
+    "status": 401,
+    "code": "42501",
+    "message": "permission denied for table cash_movements"
+  },
+  {
+    "name": "cash_register_closings",
+    "status": 401,
+    "code": "42501",
+    "message": "permission denied for table cash_register_closings"
+  },
+  {
+    "name": "product_categories",
+    "status": 200,
+    "rows": 0
+  }
+]

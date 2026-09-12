@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+import {FileBlob, SpreadsheetFile} from '@oai/artifact-tool';
+const wb=await SpreadsheetFile.importXlsx(await FileBlob.load(fileURLToPath(new URL('./catalogo_adega_tabacaria_zeus.xlsx',import.meta.url))));
+const rows=wb.worksheets.getItem('Catalogo').getRange('A6:H350').values;
+const response=await fetch('https://www.uairango.com/api-v2/oauth/cardapio/10999');
+if(!response.ok)throw Error(`HTTP ${response.status}`);
+const menu=await response.json();
+const source=Object.values(menu).flatMap(c=>c.inteira||[]);
+const report=rows.map(([category,name,description,option,price,previous,promotion,id])=>({category,name,description,option,price,previous,id,image:source.find(p=>p.id_produto===id)?.foto||null}));
+await fs.writeFile(new URL('./import-source.json',import.meta.url),JSON.stringify(report,null,2));
+console.log(JSON.stringify({rows:report.length,images:report.filter(p=>p.image).length,missing:report.filter(p=>!p.image).map(p=>({id:p.id,name:p.name,category:p.category})),special:report.filter(p=>/COMBOS|FARDO|CIGARROS|PALHEIROS|TABACARIA|HEAD SHOP|ESSENCIA/i.test(p.category))},null,2));

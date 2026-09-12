@@ -1,0 +1,3187 @@
+{
+  "products": 293,
+  "sourceProducts": 290,
+  "excluded": 52,
+  "photos": 191,
+  "provenance": [
+    {
+      "id": "uairango-10999-3529147",
+      "sourceId": 3529147,
+      "sourceName": "ABSOLUT",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529149",
+      "sourceId": 3529149,
+      "sourceName": "ABSOLUT COM RED BULL",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3605815",
+      "sourceId": 3605815,
+      "sourceName": "Bob Pinga",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3605791",
+      "sourceId": 3605791,
+      "sourceName": "Busca Brisa",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529143",
+      "sourceId": 3529143,
+      "sourceName": "CAVALO BRANCO",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529145",
+      "sourceId": 3529145,
+      "sourceName": "CAVALO BRANCO COM RED BULL",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529131",
+      "sourceId": 3529131,
+      "sourceName": "GIN ETERNITY COCO E AÇAI",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529129",
+      "sourceId": 3529129,
+      "sourceName": "GIN ETERNITY MAÇÃ VERDE",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529123",
+      "sourceId": 3529123,
+      "sourceName": "GIN ETERNITY MELANCIA",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529125",
+      "sourceId": 3529125,
+      "sourceName": "GIN ETERNITY TROPICAL",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529135",
+      "sourceId": 3529135,
+      "sourceName": "MALIBU",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529137",
+      "sourceId": 3529137,
+      "sourceName": "RED LABEL",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529139",
+      "sourceId": 3529139,
+      "sourceName": "RED LABEL COM RED BULL",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529151",
+      "sourceId": 3529151,
+      "sourceName": "SMIRNOFF",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529153",
+      "sourceId": 3529153,
+      "sourceName": "SMIRNOFF COM RED BULL",
+      "sourceCategory": "COPÃO 700ML",
+      "option": "700ML",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3477643",
+      "sourceId": 3477643,
+      "sourceName": "brahma chopp  lata 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/1378-cerveja-brahma-chopp-pilsen-350ml-lata/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1547067/1378_0.png?v=638930426962870000"
+    },
+    {
+      "id": "uairango-10999-3518961",
+      "sourceId": 3518961,
+      "sourceName": "Eisenbahn 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/184413-cerveja-pilsen-puro-malte-eisenbahn-lata-350ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/470401/184413_1.png?v=638595294024630000"
+    },
+    {
+      "id": "uairango-10999-3440229",
+      "sourceId": 3440229,
+      "sourceName": "Heineken zero 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/224443-cerveja-lager-zero-alcool-heineken-lata-350ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1561755/224443_0.png?v=638997842317570000"
+    },
+    {
+      "id": "uairango-10999-3453573",
+      "sourceId": 3453573,
+      "sourceName": "Imperio Ultra 350ml (sem glutem)",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1233949",
+      "sourceId": 1233949,
+      "sourceName": "Lata Brahma Duplo Malte 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/ca4a524043c84e97abee0e8af0fdd1f6_min.png"
+    },
+    {
+      "id": "uairango-10999-1233951",
+      "sourceId": 1233951,
+      "sourceName": "Lata Budweiser 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c12ab925f8b099a982c003a2825f4409_min.png"
+    },
+    {
+      "id": "uairango-10999-1233953",
+      "sourceId": 1233953,
+      "sourceName": "Lata Heineken 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/f0342e5a3bfac9bede181920fef439e6_min.png"
+    },
+    {
+      "id": "uairango-10999-1233957",
+      "sourceId": 1233957,
+      "sourceName": "Lata Itaipava 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e3fdc7af069973ea48220eceecc24d5b_min.png"
+    },
+    {
+      "id": "uairango-10999-1573177",
+      "sourceId": 1573177,
+      "sourceName": "Lata Original 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/19ed7e5b3264442fd7efe13c522097ef_min.png"
+    },
+    {
+      "id": "uairango-10999-1233961",
+      "sourceId": 1233961,
+      "sourceName": "Lata skol 350ml",
+      "sourceCategory": "CERVEJA LATA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b834db13c773b5009d2a88b9d540e2b9_min.png"
+    },
+    {
+      "id": "uairango-10999-1573163",
+      "sourceId": 1573163,
+      "sourceName": "Fardo Brahma 350ml",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/0982aec17d43e7ca40976a8e37b92111_min.png"
+    },
+    {
+      "id": "uairango-10999-2819883",
+      "sourceId": 2819883,
+      "sourceName": "fardo brahma duplo malte 350ml",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/5cb79343158c8dadbc79660703bc8c89_min.png"
+    },
+    {
+      "id": "uairango-10999-1235563",
+      "sourceId": 1235563,
+      "sourceName": "Fardo Budweiser",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/1817b328547d22a759e2e62c5f4c5728_min.png"
+    },
+    {
+      "id": "uairango-10999-3518959",
+      "sourceId": 3518959,
+      "sourceName": "FARDO Eisenbahn 350ml",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1235593",
+      "sourceId": 1235593,
+      "sourceName": "Fardo Itaipava",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b5fe355a62cbd799c10c406297a9ab74_min.png"
+    },
+    {
+      "id": "uairango-10999-1573173",
+      "sourceId": 1573173,
+      "sourceName": "Fardo Original 350ml",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/976d7296c65f7730240f7b50f5f49e40_min.png"
+    },
+    {
+      "id": "uairango-10999-1554465",
+      "sourceId": 1554465,
+      "sourceName": "fardo skol 269ml 15 unid",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c763b10c0f40b0c028533d34a663d424_min.png"
+    },
+    {
+      "id": "uairango-10999-1235601",
+      "sourceId": 1235601,
+      "sourceName": "fardo skol 350ml",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/d0414b7aa2bbbf6e020c43ab054d6dc3_min.png"
+    },
+    {
+      "id": "uairango-10999-3000481",
+      "sourceId": 3000481,
+      "sourceName": "fardo skol 350ml com 18 unidades",
+      "sourceCategory": "CERVEJA FARDO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e870f8456ebd2b2a3017037ec8eab183_min.png"
+    },
+    {
+      "id": "uairango-10999-3062381",
+      "sourceId": 3062381,
+      "sourceName": "Amstel de long neck 355ml",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/4846f206b96951627f7358cc590d48c5_min.png"
+    },
+    {
+      "id": "uairango-10999-3523109",
+      "sourceId": 3523109,
+      "sourceName": "Cerveja PRAYA",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3518977",
+      "sourceId": 3518977,
+      "sourceName": "Eisenbahn 355ml",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/90640-cerveja-eisenbahn-pilsen-puro-malte-long-neck-355ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1570539/90640_0.png?v=639094556629430000"
+    },
+    {
+      "id": "uairango-10999-3285923",
+      "sourceId": 3285923,
+      "sourceName": "ice smirnoff",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/186556-vodka-smirnoff-ice-275ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1562739/186556_0.png?v=639000089849770000"
+    },
+    {
+      "id": "uairango-10999-3595959",
+      "sourceId": 3595959,
+      "sourceName": "Imperio Larger verde puro malt",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3595957",
+      "sourceId": 3595957,
+      "sourceName": "Imperio Ultra 275ml (sem glutem)",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1236419",
+      "sourceId": 1236419,
+      "sourceName": "Long neck Budweiser",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/53b2715c27778930c3ebf12d4f4b1371_min.png"
+    },
+    {
+      "id": "uairango-10999-1236429",
+      "sourceId": 1236429,
+      "sourceName": "Long neck Heineken",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/6b3007defe287a1aade2d5c1b9e900ee_min.png"
+    },
+    {
+      "id": "uairango-10999-1236421",
+      "sourceId": 1236421,
+      "sourceName": "Stella Artois",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/ec79136c770d8583081ffecf9c8b0bc0_min.png"
+    },
+    {
+      "id": "uairango-10999-3613929",
+      "sourceId": 3613929,
+      "sourceName": "Stella Artois Pure Gold (Sem Glutem)",
+      "sourceCategory": "LONG NECK",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/223729-cerveja-stella-artois-pure-gold-sem-gluten-long-neck-330ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1554877/223729_0.png?v=638932073142270000"
+    },
+    {
+      "id": "uairango-10999-3529167",
+      "sourceId": 3529167,
+      "sourceName": "BALENNA DE COCO",
+      "sourceCategory": "BALLENA",
+      "option": "GARRAFA",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3529165",
+      "sourceId": 3529165,
+      "sourceName": "BALENNA DE MORANGO",
+      "sourceCategory": "BALLENA",
+      "option": "GARRAFA",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1238929",
+      "sourceId": 1238929,
+      "sourceName": "Cabare Ice Limao long neck",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/6749e58052c8d50ae5fd4bd282c60d33_min.png"
+    },
+    {
+      "id": "uairango-10999-3529109",
+      "sourceId": 3529109,
+      "sourceName": "Copo de Gin Eternity Melancia",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-2376835",
+      "sourceId": 2376835,
+      "sourceName": "ice leev limao",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b4af551eadd8d4f0fcdbc25c25ce5fa8_min.png"
+    },
+    {
+      "id": "uairango-10999-3377701",
+      "sourceId": 3377701,
+      "sourceName": "Ice leev maçã verde",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-2815981",
+      "sourceId": 2815981,
+      "sourceName": "ice leev maracuja",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/5fb162b3d2dff3564e564263eddedb39_min.png"
+    },
+    {
+      "id": "uairango-10999-3595963",
+      "sourceId": 3595963,
+      "sourceName": "ice leev melancia",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-2376833",
+      "sourceId": 2376833,
+      "sourceName": "ice leev morango",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/8935b6a3cd195e451f775c84a75ea979_min.png"
+    },
+    {
+      "id": "uairango-10999-3529003",
+      "sourceId": 3529003,
+      "sourceName": "Jack And Coke",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/234690-beb-mista-alc-jack-daniels-269mllt-whisk-cocacola/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1519181/234690_0.png?v=638886872761400000"
+    },
+    {
+      "id": "uairango-10999-3408125",
+      "sourceId": 3408125,
+      "sourceName": "Mix para drink morango (coco leve)  200ml",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3595967",
+      "sourceId": 3595967,
+      "sourceName": "Ready gin Melancia",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3595969",
+      "sourceId": 3595969,
+      "sourceName": "Ready gin tonica",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3595965",
+      "sourceId": 3595965,
+      "sourceName": "Redady Gin Melancia",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1360997",
+      "sourceId": 1360997,
+      "sourceName": "Skol Beats GT Long Neck",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e20289621aa835a5060646708f1aeb71_min.png"
+    },
+    {
+      "id": "uairango-10999-1360995",
+      "sourceId": 1360995,
+      "sourceName": "skol Beats long neck",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c9dc964bb0610fc0d2cbe9f8bd201bd8_min.png"
+    },
+    {
+      "id": "uairango-10999-3507869",
+      "sourceId": 3507869,
+      "sourceName": "Skol Beats Tropical Long Neck",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3113403",
+      "sourceId": 3113403,
+      "sourceName": "Skol Beats, frutas vermelhas Long neck",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b93b2e6361315805be2b92f4b646cdf6_min.png"
+    },
+    {
+      "id": "uairango-10999-2339815",
+      "sourceId": 2339815,
+      "sourceName": "sminorf ice long neck",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/04c81b0fafda817b21e809dd549721d8_min.png"
+    },
+    {
+      "id": "uairango-10999-3664206",
+      "sourceId": 3664206,
+      "sourceName": "Xeque Mate",
+      "sourceCategory": "DRINKS PRONTOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3073981",
+      "sourceId": 3073981,
+      "sourceName": "combo tanqueray",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3231171",
+      "sourceId": 3231171,
+      "sourceName": "combo Jim Beam Honey",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3707904",
+      "sourceId": 3707904,
+      "sourceName": "Bob Pinga",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3707898",
+      "sourceId": 3707898,
+      "sourceName": "Busca Brisa",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3707902",
+      "sourceId": 3707902,
+      "sourceName": "Busca Brisa 2",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1273997",
+      "sourceId": 1273997,
+      "sourceName": "combo Ballantaimes",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c060f04e0444831a013976eca1d587ff_min.png"
+    },
+    {
+      "id": "uairango-10999-1722749",
+      "sourceId": 1722749,
+      "sourceName": "combo Buchanans Deluxe",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/ae57d4e029235e8fb57f5cc83e6d4cdb_min.png"
+    },
+    {
+      "id": "uairango-10999-568627",
+      "sourceId": 568627,
+      "sourceName": "combo Cavalo",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/6f720c084aea3e058e01918df7465e20_min.png"
+    },
+    {
+      "id": "uairango-10999-1722819",
+      "sourceId": 1722819,
+      "sourceName": "Combo chivas regal 12 anos",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/acf473d8d321e8f5c9259d058e80427d_min.png"
+    },
+    {
+      "id": "uairango-10999-2160131",
+      "sourceId": 2160131,
+      "sourceName": "Combo Gin Beefeater pink",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3093281",
+      "sourceId": 3093281,
+      "sourceName": "Combo GIN Beefeater Tradicional",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3407403",
+      "sourceId": 3407403,
+      "sourceName": "combo gin eternity  Açai e coco",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3407401",
+      "sourceId": 3407401,
+      "sourceName": "combo gin eternity  Maça verde",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3407399",
+      "sourceId": 3407399,
+      "sourceName": "combo gin eternity  Melancia",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1233935",
+      "sourceId": 1233935,
+      "sourceName": "Combo Jack Daniels",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-2565329",
+      "sourceId": 2565329,
+      "sourceName": "Combo Jack Daniels Blackbarry",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-2095265",
+      "sourceId": 2095265,
+      "sourceName": "Combo jack daniels honey",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1233939",
+      "sourceId": 1233939,
+      "sourceName": "Combo Jack Maça Verde",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/dd629d3a952b286d4a425fddaf8fd49c_min.png"
+    },
+    {
+      "id": "uairango-10999-3231181",
+      "sourceId": 3231181,
+      "sourceName": "combo jim beam",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1722045",
+      "sourceId": 1722045,
+      "sourceName": "Combo Master Gold",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/2b9b7b5b1ad50ed6b658c05c2cfb4c33_min.png"
+    },
+    {
+      "id": "uairango-10999-568637",
+      "sourceId": 568637,
+      "sourceName": "Combo Red Label",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-568635",
+      "sourceId": 568635,
+      "sourceName": "Combo smirnoff",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/15a2a047fd241201971e2a8a54a40c15_min.png"
+    },
+    {
+      "id": "uairango-10999-3244909",
+      "sourceId": 3244909,
+      "sourceName": "Gin eternit  maça verde  combo",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3244907",
+      "sourceId": 3244907,
+      "sourceName": "Gin maça verde eternit",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3671966",
+      "sourceId": 3671966,
+      "sourceName": "OldParr",
+      "sourceCategory": "COMBOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3434307",
+      "sourceId": 3434307,
+      "sourceName": "Contra Acebolado",
+      "sourceCategory": "Porções Zeus",
+      "option": "UNICO",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3434309",
+      "sourceId": 3434309,
+      "sourceName": "Nuggets",
+      "sourceCategory": "Porções Zeus",
+      "option": "UNICO",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3507879",
+      "sourceId": 3507879,
+      "sourceName": "Gatorade Frutas Citricas 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/100217-isotonico-gatorade-frutas-citricas-500-ml-garrafa/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1526366/100217_0.png?v=638924306143500000"
+    },
+    {
+      "id": "uairango-10999-3507885",
+      "sourceId": 3507885,
+      "sourceName": "Gatorade Laranja 500 ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/100215-isotonico-gatorade-laranja-500ml-garrafa/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1526364/100215_0.png?v=638924305962430000"
+    },
+    {
+      "id": "uairango-10999-3507873",
+      "sourceId": 3507873,
+      "sourceName": "Gatorade Uva 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/100216-isotonico-gatorade-uva-500ml-garrafa/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1526365/100216_0.png?v=638924306053800000"
+    },
+    {
+      "id": "uairango-10999-3507883",
+      "sourceId": 3507883,
+      "sourceName": "Gatorade Zero 350ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3559833",
+      "sourceId": 3559833,
+      "sourceName": "Powerade ATAQUE PET 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/240405-powerade-contraataque-cool-citrus-bebida-isotonica-500ml-pet/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1575263/240405_0.png?v=639180843327000000"
+    },
+    {
+      "id": "uairango-10999-3559829",
+      "sourceId": 3559829,
+      "sourceName": "Powerade frutas tropicais 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/219996-bebida-isotonica-powerade-frutas-tropicais-500ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1570527/219996_0.png?v=639094555332330000"
+    },
+    {
+      "id": "uairango-10999-3559835",
+      "sourceId": 3559835,
+      "sourceName": "Powerade LARANJA 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/219094-suplemento-alimentar-de-carboidratos-e-eletrolitos-isotonico-laranja-powerade-garrafa-500ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1556303/219094_0.png?v=638937046739770000"
+    },
+    {
+      "id": "uairango-10999-3559837",
+      "sourceId": 3559837,
+      "sourceName": "Powerade LIMÃO 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/219095-bebida-isotonica-powerade-limao-500ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1556304/219095_0.png?v=638937056596730000"
+    },
+    {
+      "id": "uairango-10999-3559831",
+      "sourceId": 3559831,
+      "sourceName": "Powerade MOUNTAIN BLAST 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/136739-bebida-isotonica-powerade-mountain-blast-500ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1570526/136739_0.png?v=639094555243400000"
+    },
+    {
+      "id": "uairango-10999-3559839",
+      "sourceId": 3559839,
+      "sourceName": "Powerade TANGERINA 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/226382-bebida-isotonica-powerade-tangerina-500ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1575260/226382_0.png?v=639180834920900000"
+    },
+    {
+      "id": "uairango-10999-3559843",
+      "sourceId": 3559843,
+      "sourceName": "Powerade UVA 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/136742-bebida-isotonica-powerade-uva-500ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1570525/136742_0.png?v=639094555140300000"
+    },
+    {
+      "id": "uairango-10999-3559841",
+      "sourceId": 3559841,
+      "sourceName": "Powerade ZERO MOUNT BLAST 500ml",
+      "sourceCategory": "Isotônico",
+      "option": "Gatorade",
+      "imageSource": "https://www.supernosso.com/167172-isotonico-powerade-mountaun-blast-zero-pet-500-ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1575259/167172_0.png?v=639180829047500000"
+    },
+    {
+      "id": "uairango-10999-3475631-vodka",
+      "sourceId": 3475631,
+      "sourceName": "MANSAO MAROMBA",
+      "sourceCategory": "MANSAO MAROMBA",
+      "option": "Vodka",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3475631-tropical",
+      "sourceId": 3475631,
+      "sourceName": "MANSAO MAROMBA",
+      "sourceCategory": "MANSAO MAROMBA",
+      "option": "Tropical",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3475631-whisk",
+      "sourceId": 3475631,
+      "sourceName": "MANSAO MAROMBA",
+      "sourceCategory": "MANSAO MAROMBA",
+      "option": "Whisk",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3475631-melancia",
+      "sourceId": 3475631,
+      "sourceName": "MANSAO MAROMBA",
+      "sourceCategory": "MANSAO MAROMBA",
+      "option": "Melancia",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1273439",
+      "sourceId": 1273439,
+      "sourceName": "Isqueiro Bic Grande",
+      "sourceCategory": "CIGARROS / ISQUEIRO",
+      "option": "Unidade",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/427412cdaa7e7b8274de0ca892a83f98_min.png"
+    },
+    {
+      "id": "uairango-10999-1273437",
+      "sourceId": 1273437,
+      "sourceName": "Isqueiro Bic Pequeno",
+      "sourceCategory": "CIGARROS / ISQUEIRO",
+      "option": "Unidade",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/fda9907a3178a42888d14387d3d0430a_min.png"
+    },
+    {
+      "id": "uairango-10999-2896619",
+      "sourceId": 2896619,
+      "sourceName": "celebrate",
+      "sourceCategory": "CHAMPANHE/ SIDRA/ ESPUMANTE",
+      "option": ".",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/6720e1ef3084df6ce8ea013762103bfa_min.png"
+    },
+    {
+      "id": "uairango-10999-1500421",
+      "sourceId": 1500421,
+      "sourceName": "Papel em palha flor do norte",
+      "sourceCategory": "PALHEIROS / FUMOS/ FILTROS",
+      "option": "Unidade",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/51821d960c89208a5b7c6d2883f8ef03_min.png"
+    },
+    {
+      "id": "uairango-10999-2565199",
+      "sourceId": 2565199,
+      "sourceName": "papel juriti 50 folhas",
+      "sourceCategory": "PALHEIROS / FUMOS/ FILTROS",
+      "option": "Unidade",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c5493cb50b374ea41d80fb2f2da2585d_min.png"
+    },
+    {
+      "id": "uairango-10999-2565219",
+      "sourceId": 2565219,
+      "sourceName": "papel trevo",
+      "sourceCategory": "PALHEIROS / FUMOS/ FILTROS",
+      "option": "Unidade",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/7ede5a8853fe2f40d3fdcb976b88af99_min.png"
+    },
+    {
+      "id": "uairango-10999-3605819",
+      "sourceId": 3605819,
+      "sourceName": "Bob Pinga",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3605817",
+      "sourceId": 3605817,
+      "sourceName": "Busca Brisa",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-953557",
+      "sourceId": 953557,
+      "sourceName": "Campari",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/f0fbc45850a1d8de9b9dbcec5a3bb758_min.png"
+    },
+    {
+      "id": "uairango-10999-568739",
+      "sourceId": 568739,
+      "sourceName": "Canelinha",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b089ef4bc4e3b30f6f0fa1d4e5e500cb_min.png"
+    },
+    {
+      "id": "uairango-10999-3337863",
+      "sourceId": 3337863,
+      "sourceName": "Canelinha DA Rocha 275ml",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-2118163",
+      "sourceId": 2118163,
+      "sourceName": "dreher",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/2a2da2b32afc5a935ad54e887f224cd3_min.png"
+    },
+    {
+      "id": "uairango-10999-953409",
+      "sourceId": 953409,
+      "sourceName": "Jurupinga",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/f52939eb633528239739772bb73ceefc_min.png"
+    },
+    {
+      "id": "uairango-10999-1605341",
+      "sourceId": 1605341,
+      "sourceName": "Malibu",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/68403260725f5767679d366642790837_min.png"
+    },
+    {
+      "id": "uairango-10999-3209099",
+      "sourceId": 3209099,
+      "sourceName": "tequila jose cuervo prata",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/89849-tequila-silver-jose-cuervo-especial-garrafa-750ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/466751/89849_0.png?v=638595076405430000"
+    },
+    {
+      "id": "uairango-10999-1239259",
+      "sourceId": 1239259,
+      "sourceName": "Tequila tequiloko",
+      "sourceCategory": "DESTILADOS",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/45fc1e39f64b1ef05517be6e6815b703_min.png"
+    },
+    {
+      "id": "uairango-10999-1605335",
+      "sourceId": 1605335,
+      "sourceName": "amarula",
+      "sourceCategory": "LICOR",
+      "option": ".",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/051243c63e1cb32c5b0edfd1955307f1_min.png"
+    },
+    {
+      "id": "uairango-10999-2160159",
+      "sourceId": 2160159,
+      "sourceName": "ballena",
+      "sourceCategory": "LICOR",
+      "option": ".",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/dd00f76c8100b4619937243184f3456f_min.png"
+    },
+    {
+      "id": "uairango-10999-3078107",
+      "sourceId": 3078107,
+      "sourceName": "ballena de coco",
+      "sourceCategory": "LICOR",
+      "option": ".",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/07adc6e9dc0447ff27f8e412634ae173_min.png"
+    },
+    {
+      "id": "uairango-10999-1605333",
+      "sourceId": 1605333,
+      "sourceName": "Licor 43",
+      "sourceCategory": "LICOR",
+      "option": ".",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b2f0453ddee985dfd553496822783b91_min.png"
+    },
+    {
+      "id": "uairango-10999-1681527",
+      "sourceId": 1681527,
+      "sourceName": "Gin eternity maça verde",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/2ec743cbdc92a9ee3cab717cab535a72_min.png"
+    },
+    {
+      "id": "uairango-10999-3093265",
+      "sourceId": 3093265,
+      "sourceName": "Beefeater Tradicional",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/99bae1c8596ce9def0778af1184ed48b_min.png"
+    },
+    {
+      "id": "uairango-10999-2565331",
+      "sourceId": 2565331,
+      "sourceName": "Beefeater pink",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/da087b8bbdf79799162f3200fa73525e_min.png"
+    },
+    {
+      "id": "uairango-10999-3285865",
+      "sourceId": 3285865,
+      "sourceName": "Gin Eternity coco/açai",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "https://www.labebidas.com.br/gin/eternity-coco-e-acai-900-ml-785",
+      "imageUrl": "https://www.labebidas.com.br/774-thumbnail_gallery/eternity-coco-e-acai-900-ml.webp"
+    },
+    {
+      "id": "uairango-10999-1361159",
+      "sourceId": 1361159,
+      "sourceName": "Gin Eternity frutas tropicais",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/8e1e6ecf8fb66f20783d318ab00e50a0_min.png"
+    },
+    {
+      "id": "uairango-10999-2565337",
+      "sourceId": 2565337,
+      "sourceName": "gin eternity melancia",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/2f42ea6d935c49b602b0739e0e07789e_min.png"
+    },
+    {
+      "id": "uairango-10999-1549869",
+      "sourceId": 1549869,
+      "sourceName": "Gin Tanqueray",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/cea890f80b0d7da88d3eab589f4e92f2_min.png"
+    },
+    {
+      "id": "uairango-10999-3700240",
+      "sourceId": 3700240,
+      "sourceName": "Tanqueray Sevilla",
+      "sourceCategory": "GIN",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/193798-gin-tanqueray-flor-de-sevilla-700ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1554098/193798_0.png?v=638932015540970000"
+    },
+    {
+      "id": "uairango-10999-3619551",
+      "sourceId": 3619551,
+      "sourceName": "Chardonay Chileno",
+      "sourceCategory": "VINHOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3619557",
+      "sourceId": 3619557,
+      "sourceName": "Chardonay Chileno, Vinho branco",
+      "sourceCategory": "VINHOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1238821",
+      "sourceId": 1238821,
+      "sourceName": "Pergola suave",
+      "sourceCategory": "VINHOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/5e993831be44cc2b0663294815d95dfc_min.png"
+    },
+    {
+      "id": "uairango-10999-3130571",
+      "sourceId": 3130571,
+      "sourceName": "Ballantaimes",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3221633",
+      "sourceId": 3221633,
+      "sourceName": "Ballantaimes Sunshine (abacaxi)",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1722503",
+      "sourceId": 1722503,
+      "sourceName": "Buchanans Deluxe",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/a2de01a96930713cdd471d2eac7eb648_min.png"
+    },
+    {
+      "id": "uairango-10999-1722787",
+      "sourceId": 1722787,
+      "sourceName": "chivas regal 12 anos 1L",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/52c41af8e6fb785eff1877b3b5660872_min.png"
+    },
+    {
+      "id": "uairango-10999-1236481",
+      "sourceId": 1236481,
+      "sourceName": "Jack Daniels",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/715eeca932ece7a6f9adc50a9fb6daa1_min.png"
+    },
+    {
+      "id": "uairango-10999-1239265",
+      "sourceId": 1239265,
+      "sourceName": "Jack Daniels Apple",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/3537321f643d303a868c20176587fb02_min.png"
+    },
+    {
+      "id": "uairango-10999-3231153",
+      "sourceId": 3231153,
+      "sourceName": "Jim Beam Honey",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/213292-whisky-jim-beam-honey-1-litro/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/165869/Whisky-Jim-Beam-Honey-1-Litro.jpg?v=637776846622770000"
+    },
+    {
+      "id": "uairango-10999-3231117",
+      "sourceId": 3231117,
+      "sourceName": "Jim Beam tradicional",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/123210-whisky-espanhol-bourbon-kentucky-straight-jim-beam-garrafa-1l/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1560009/123210_0.png?v=638978735503230000"
+    },
+    {
+      "id": "uairango-10999-3211649",
+      "sourceId": 3211649,
+      "sourceName": "master gold",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3671962",
+      "sourceId": 3671962,
+      "sourceName": "OldParr",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1236479",
+      "sourceId": 1236479,
+      "sourceName": "Red label",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/72f6d4ee7f9ea0cc7edc45cc434b873e_min.png"
+    },
+    {
+      "id": "uairango-10999-1236477",
+      "sourceId": 1236477,
+      "sourceName": "White Horse 1L",
+      "sourceCategory": "WISKHY",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/3aeef2e128b3f14e4b725aee3b92fe81_min.png"
+    },
+    {
+      "id": "uairango-10999-3061367",
+      "sourceId": 3061367,
+      "sourceName": "cachaça  carreirinho",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/7eee42f0ca9698725db06a5cb986673d_min.png"
+    },
+    {
+      "id": "uairango-10999-1236447",
+      "sourceId": 1236447,
+      "sourceName": "Cachaça 51",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/4f279e3280e29892f9835b6d2f4e0ff9_min.png"
+    },
+    {
+      "id": "uairango-10999-3539047",
+      "sourceId": 3539047,
+      "sourceName": "Pitu Banana",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3408147",
+      "sourceId": 3408147,
+      "sourceName": "Pitu de caju 350 ml",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1236451",
+      "sourceId": 1236451,
+      "sourceName": "Pitu lata 350ml",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/973486bce2ecc02c95ae4e633b7b00b4_min.png"
+    },
+    {
+      "id": "uairango-10999-1236455",
+      "sourceId": 1236455,
+      "sourceName": "Pitu Limao 350ml",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/fefba419769e73291f98c3a63bce55b7_min.png"
+    },
+    {
+      "id": "uairango-10999-2118117",
+      "sourceId": 2118117,
+      "sourceName": "pitu mel e limao 350ml",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/8e0758b6ed7b71a084908a5e40e20750_min.png"
+    },
+    {
+      "id": "uairango-10999-1236449",
+      "sourceId": 1236449,
+      "sourceName": "Velho Barreiro",
+      "sourceCategory": "CACHAÇA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/57b38d1b3b09fe068d461932168dc4ab_min.png"
+    },
+    {
+      "id": "uairango-10999-1722333",
+      "sourceId": 1722333,
+      "sourceName": "Vodka Absolut 1L",
+      "sourceCategory": "VODKA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/41b46ef619c9ebef05fe111eb7d856d2_min.png"
+    },
+    {
+      "id": "uairango-10999-1326707",
+      "sourceId": 1326707,
+      "sourceName": "Vodka Sminorff",
+      "sourceCategory": "VODKA",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/6caa5c69985ed4b885aaeec3b8d05808_min.png"
+    },
+    {
+      "id": "uairango-10999-2521557",
+      "sourceId": 2521557,
+      "sourceName": "baly maça verde",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/f945aed6164adcc3d627a6ca9599e85b_min.png"
+    },
+    {
+      "id": "uairango-10999-1367939",
+      "sourceId": 1367939,
+      "sourceName": "baly melancia 2L",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e99e88061572b9ba2a8a8050a1b4eabc_min.png"
+    },
+    {
+      "id": "uairango-10999-2521559",
+      "sourceId": 2521559,
+      "sourceName": "baly morango e  pesssego",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/da5cee649038a5ab4d356b3ef4a2d99e_min.png"
+    },
+    {
+      "id": "uairango-10999-3286161",
+      "sourceId": 3286161,
+      "sourceName": "BALY Tradicional 2L",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/217216-energetico-tradicional-baly-garrafa-2l/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1560328/217216_0.png?v=638978772578670000"
+    },
+    {
+      "id": "uairango-10999-2521555",
+      "sourceId": 2521555,
+      "sourceName": "baly tropical",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/1c256021184f4915a6e5746f23d75f7c_min.png"
+    },
+    {
+      "id": "uairango-10999-3285957",
+      "sourceId": 3285957,
+      "sourceName": "Energético baly coco/açai",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/217220-composto-liquido-energetico-a-base-de-cafeina-e-taurina-coco-e-acai-baly-garrafa-2l/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/470765/217220_0.png?v=638595387569700000"
+    },
+    {
+      "id": "uairango-10999-3309633",
+      "sourceId": 3309633,
+      "sourceName": "monster energy 473ml tradicional",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/136780-energetico-monster-lata-473ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1565989/136780_0.png?v=639005437452000000"
+    },
+    {
+      "id": "uairango-10999-1822947",
+      "sourceId": 1822947,
+      "sourceName": "Monster energy zero",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/336b65134b0ff4630445b19b4c57372a_min.png"
+    },
+    {
+      "id": "uairango-10999-1822945",
+      "sourceId": 1822945,
+      "sourceName": "Monster Mango loco",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c5471d0ba01b5efc865ac3a2a7c4f563_min.png"
+    },
+    {
+      "id": "uairango-10999-3507857",
+      "sourceId": 3507857,
+      "sourceName": "Monster Mango loco Zero",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3093245",
+      "sourceId": 3093245,
+      "sourceName": "Monster pêssego",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/fa072fb3ddb38a30781eeccbe04b9be6_min.png"
+    },
+    {
+      "id": "uairango-10999-2354071",
+      "sourceId": 2354071,
+      "sourceName": "monster pipeline punch",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/ac685a786bdce1b7c67c6dbd4ef5373a_min.png"
+    },
+    {
+      "id": "uairango-10999-1236463",
+      "sourceId": 1236463,
+      "sourceName": "Monster preto",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/52a22ff8a4df9706455bb9d042cb66c3_min.png"
+    },
+    {
+      "id": "uairango-10999-1236469",
+      "sourceId": 1236469,
+      "sourceName": "Monster Rio Punch",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/43f43aa98ebbbe791a617ef39068498e_min.png"
+    },
+    {
+      "id": "uairango-10999-3479097",
+      "sourceId": 3479097,
+      "sourceName": "Monster Strambery dream",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/240407-energetico-monster-ultra-strawberry-dreams-sem-acucar--473ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1571484/240407.png?v=639118117226930000"
+    },
+    {
+      "id": "uairango-10999-1236465",
+      "sourceId": 1236465,
+      "sourceName": "Monster ultra",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/1973b5e7790ec87693f48aef1e6be29a_min.png"
+    },
+    {
+      "id": "uairango-10999-1236467",
+      "sourceId": 1236467,
+      "sourceName": "Monster ultra Violet",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e3539ac3b30245d1809694a604a71e1d_min.png"
+    },
+    {
+      "id": "uairango-10999-2354067",
+      "sourceId": 2354067,
+      "sourceName": "monster ultra watermelon",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/5acb3d4949143acb411706a34c057962_min.png"
+    },
+    {
+      "id": "uairango-10999-1236461",
+      "sourceId": 1236461,
+      "sourceName": "Red bull 250ml",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/d821a48a9b7f52565892307088d8173d_min.png"
+    },
+    {
+      "id": "uairango-10999-3040121",
+      "sourceId": 3040121,
+      "sourceName": "Red bull Nectarina 250 ml",
+      "sourceCategory": "ENERGETICO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/89d1b443997e5c766d8c2f8238137e23_min.png"
+    },
+    {
+      "id": "uairango-10999-2333595",
+      "sourceId": 2333595,
+      "sourceName": "Gelo Abacaxi Cavalo branco",
+      "sourceCategory": "GELO",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1238789",
+      "sourceId": 1238789,
+      "sourceName": "Gelo de coco",
+      "sourceCategory": "GELO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/adfa6dc53fc71e1e47cd46a7b9c9fd96_min.png"
+    },
+    {
+      "id": "uairango-10999-1297873",
+      "sourceId": 1297873,
+      "sourceName": "Gelo de Maça Verde",
+      "sourceCategory": "GELO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c090028af44e701a3d1491db02c8fd5a_min.png"
+    },
+    {
+      "id": "uairango-10999-1260725",
+      "sourceId": 1260725,
+      "sourceName": "Gelo em cubo 5kg",
+      "sourceCategory": "GELO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/961122d84fb5ea09a395e4f30362277f_min.png"
+    },
+    {
+      "id": "uairango-10999-1238793",
+      "sourceId": 1238793,
+      "sourceName": "Gelo Maracuja",
+      "sourceCategory": "GELO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/7dba0563602c63192c3d1b32f7ed3ed6_min.png"
+    },
+    {
+      "id": "uairango-10999-1844095",
+      "sourceId": 1844095,
+      "sourceName": "Gelo melancia",
+      "sourceCategory": "GELO",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/da2d48575b8af0031556fbca6425963b_min.png"
+    },
+    {
+      "id": "uairango-10999-2819891",
+      "sourceId": 2819891,
+      "sourceName": "Coca Cola zero  350ml lata",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/8e934eb6d5d6b7c5fb37a6ce975c146b_min.png"
+    },
+    {
+      "id": "uairango-10999-1240595",
+      "sourceId": 1240595,
+      "sourceName": "Agua 500ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/ad57084dcff381edfdd56f041d305ddc_min.png"
+    },
+    {
+      "id": "uairango-10999-1907185",
+      "sourceId": 1907185,
+      "sourceName": "agua com gas 500ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/1e92b57961651d6d9945aa94d3ddfcde_min.png"
+    },
+    {
+      "id": "uairango-10999-1239269",
+      "sourceId": 1239269,
+      "sourceName": "Coca cola 2l",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/4e4c22ea7f1101c8641e721626240e34_min.png"
+    },
+    {
+      "id": "uairango-10999-2819889",
+      "sourceId": 2819889,
+      "sourceName": "Coca cola 2l zero",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/86e58e79d15c51e183431f75122495ea_min.png"
+    },
+    {
+      "id": "uairango-10999-1239275",
+      "sourceId": 1239275,
+      "sourceName": "Coca cola 600ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/411f7aee95e855eaf78cd59a68b9552c_min.png"
+    },
+    {
+      "id": "uairango-10999-1239273",
+      "sourceId": 1239273,
+      "sourceName": "Coca cola lata  350ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/97e227a747d1eb256572628109f7c2c4_min.png"
+    },
+    {
+      "id": "uairango-10999-3300237",
+      "sourceId": 3300237,
+      "sourceName": "coca cola lata 220 ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/182790-refrigerante-cocacola-sabor-original-mini-220ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/465569/182790_0.png?v=638595042950600000"
+    },
+    {
+      "id": "uairango-10999-3300239",
+      "sourceId": 3300239,
+      "sourceName": "coca cola lata zero 220ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/182797-refrigerante-sem-acucar-cocacola-lata-220ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1570537/182797_0.png?v=639094556396970000"
+    },
+    {
+      "id": "uairango-10999-1239309",
+      "sourceId": 1239309,
+      "sourceName": "Coca cola pet 200ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c51b1ad50399d7a8426a4ec7ba2e849c_min.png"
+    },
+    {
+      "id": "uairango-10999-3047679",
+      "sourceId": 3047679,
+      "sourceName": "Coca cola pet zero 200ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/47d850f898644747052fbe10e57c8e88_min.png"
+    },
+    {
+      "id": "uairango-10999-1239277",
+      "sourceId": 1239277,
+      "sourceName": "Coca cola retornável",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b6b75240630120128d92e8d0ac7629ff_min.png"
+    },
+    {
+      "id": "uairango-10999-2815979",
+      "sourceId": 2815979,
+      "sourceName": "Coca cola retornável zero",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/55775b6b9cc01450a9f035a2b8ca5887_min.png"
+    },
+    {
+      "id": "uairango-10999-3093273",
+      "sourceId": 3093273,
+      "sourceName": "Del vale caixa de 1l",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e718d1e089338ce13a757d21ae175fb4_min.png"
+    },
+    {
+      "id": "uairango-10999-3310323",
+      "sourceId": 3310323,
+      "sourceName": "Del Valle 1,5",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1239295",
+      "sourceId": 1239295,
+      "sourceName": "Fanta laranja 2L",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e150ac4e29c460501308d43ad75006ff_min.png"
+    },
+    {
+      "id": "uairango-10999-3281327",
+      "sourceId": 3281327,
+      "sourceName": "Fanta Laranja 600ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/1755-refrigerante-fanta-laranja-pet-600-ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/465663/1755_0.png?v=638595044897200000"
+    },
+    {
+      "id": "uairango-10999-1239297",
+      "sourceId": 1239297,
+      "sourceName": "Fanta laranja lata 350m",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/17d877913ea651918d3575aeaaf0d44c_min.png"
+    },
+    {
+      "id": "uairango-10999-3521327",
+      "sourceId": 3521327,
+      "sourceName": "Fanta Maracuja 350 ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/151894-refrigerante-maracuja-fanta-lata-350ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/446660/151894_0.png?v=638556953132170000"
+    },
+    {
+      "id": "uairango-10999-3507935",
+      "sourceId": 3507935,
+      "sourceName": "Fanta Uva 220ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/182954-refrigerante-fanta-uva-mini-lata-220ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1529739/182954_0.png?v=638924472396900000"
+    },
+    {
+      "id": "uairango-10999-1239301",
+      "sourceId": 1239301,
+      "sourceName": "Fanta uva 2L",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/33e91b245566309a4094fed9e6a06efc_min.png"
+    },
+    {
+      "id": "uairango-10999-1239303",
+      "sourceId": 1239303,
+      "sourceName": "Fanta uva lata 350ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/1c1a763dce0735a817672d2568313a7a_min.png"
+    },
+    {
+      "id": "uairango-10999-3281607",
+      "sourceId": 3281607,
+      "sourceName": "KAPO",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3299887",
+      "sourceId": 3299887,
+      "sourceName": "kuat 2l",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/1795-refrigerante-de-guarana-kuat-garrafa-2l/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1565814/1795_0.png?v=639002749329370000"
+    },
+    {
+      "id": "uairango-10999-3370383",
+      "sourceId": 3370383,
+      "sourceName": "Powerade MOUNTAIN BLAST 500ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/136739-bebida-isotonica-powerade-mountain-blast-500ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1570526/136739_0.png?v=639094555243400000"
+    },
+    {
+      "id": "uairango-10999-1907997",
+      "sourceId": 1907997,
+      "sourceName": "schweppes citrus lata 350ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/4a184aa975b1d33268cba2877bb0b3ab_min.png"
+    },
+    {
+      "id": "uairango-10999-1239311",
+      "sourceId": 1239311,
+      "sourceName": "Sprite 2l",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/417f81f387909d4427727e88c281d616_min.png"
+    },
+    {
+      "id": "uairango-10999-3300243",
+      "sourceId": 3300243,
+      "sourceName": "sprite lata 220ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "https://www.supernosso.com/182957-refrigerante-limao-sprite-lata-220ml/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1529744/182957_0.png?v=638924472502800000"
+    },
+    {
+      "id": "uairango-10999-1239313",
+      "sourceId": 1239313,
+      "sourceName": "Sprite Lata 350ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/4436dbf6688de8c4d10d5e16fe8773af_min.png"
+    },
+    {
+      "id": "uairango-10999-1907181",
+      "sourceId": 1907181,
+      "sourceName": "Suco del vale lata 290ml",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/189423114970b466d71d6ac8d6db8309_min.png"
+    },
+    {
+      "id": "uairango-10999-2971117",
+      "sourceId": 2971117,
+      "sourceName": "toddynho achocolatado",
+      "sourceCategory": "REFRIGERANTES, AGUA E SUCOS",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e6b848f108091f17c3d61cb30cbacfec_min.png"
+    },
+    {
+      "id": "uairango-10999-1240645",
+      "sourceId": 1240645,
+      "sourceName": "Salgadinho Cheetos grande",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b0da183e9b0bb08cb98cd94cec68e5b9_min.png"
+    },
+    {
+      "id": "uairango-10999-1240643",
+      "sourceId": 1240643,
+      "sourceName": "Salgadinho Fandangos grande 85g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/241676-salg-fandangos-85gpc/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1574477/241676.png?v=639173773603500000"
+    },
+    {
+      "id": "uairango-10999-3274345",
+      "sourceId": 3274345,
+      "sourceName": "amendoim salgado kaçulinha",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1240631",
+      "sourceId": 1240631,
+      "sourceName": "Amendoin Japones",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/bcb83811e3888340109b45f3bad7daf6_min.png"
+    },
+    {
+      "id": "uairango-10999-1240633",
+      "sourceId": 1240633,
+      "sourceName": "Amendoin Ovinho",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/d25243c6def8f0ee36a76492b154a59b_min.png"
+    },
+    {
+      "id": "uairango-10999-3406827",
+      "sourceId": 3406827,
+      "sourceName": "Baconzitos 86 g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/1ba06125b092b9dd7a89b3621c330c4b_min.png"
+    },
+    {
+      "id": "uairango-10999-3279399",
+      "sourceId": 3279399,
+      "sourceName": "bala lua cheia",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3362239",
+      "sourceId": 3362239,
+      "sourceName": "bala yogurte",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1681307",
+      "sourceId": 1681307,
+      "sourceName": "Biscoito Passatempo morango",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/bb76430dc30dd1906f2b146622109905_min.png"
+    },
+    {
+      "id": "uairango-10999-3456671",
+      "sourceId": 3456671,
+      "sourceName": "Cajuzinho",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3406817",
+      "sourceId": 3406817,
+      "sourceName": "Cheetos assado  parmesão 80g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/5ed19e4bb27f652fee2fdf26355979df_min.png"
+    },
+    {
+      "id": "uairango-10999-3406821",
+      "sourceId": 3406821,
+      "sourceName": "Cheetos assado mix de queijos 70 g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/0e5bd06c42f170ff42d79b8e29e15b11_min.png"
+    },
+    {
+      "id": "uairango-10999-3406773",
+      "sourceId": 3406773,
+      "sourceName": "Cheetos assado parmesão 40g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/17a948ea021f13a3173712b0061b201e_min.png"
+    },
+    {
+      "id": "uairango-10999-3092453",
+      "sourceId": 3092453,
+      "sourceName": "Cheetos assado requeijao 39g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3406791",
+      "sourceId": 3406791,
+      "sourceName": "Cheetos queijo suíço 37g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/f665e96d0a14458003ec69e0c284e5c3_min.png"
+    },
+    {
+      "id": "uairango-10999-3406783",
+      "sourceId": 3406783,
+      "sourceName": "Cheetos requeijão 160 g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/0d5c8becfa93eae8465dbba990972e58_min.png"
+    },
+    {
+      "id": "uairango-10999-3406813",
+      "sourceId": 3406813,
+      "sourceName": "Cheetos requeijão 90 g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/95adb515057459a8447aa31a3764b25d_min.png"
+    },
+    {
+      "id": "uairango-10999-568811",
+      "sourceId": 568811,
+      "sourceName": "Chiclete Crooc Buzzy",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/605c799351129930d6bccb3e7d71d303_min.png"
+    },
+    {
+      "id": "uairango-10999-2563717",
+      "sourceId": 2563717,
+      "sourceName": "doritos 75g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/a55bfdb83e0cbcecb7d7a11a836e4b14_min.png"
+    },
+    {
+      "id": "uairango-10999-3479073",
+      "sourceId": 3479073,
+      "sourceName": "Doritos Dinamita Flamin Hot 60g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/228711-salgadinho-doritos-dinamita-flamin-hot-60g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1581333/228711_0.png?v=639235189042170000"
+    },
+    {
+      "id": "uairango-10999-3479077",
+      "sourceId": 3479077,
+      "sourceName": "Doritos Dinamita Pimenta Mex. 60g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/229512-salgadinho-doritos-dinamita-pimenta-mexicana-60g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1581358/229512_0.png?v=639235190680430000"
+    },
+    {
+      "id": "uairango-10999-3567541",
+      "sourceId": 3567541,
+      "sourceName": "Doritos Sweet Chili",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3406829",
+      "sourceId": 3406829,
+      "sourceName": "Fandangos  sabor presunto 160",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/53530513c9de3bbd18cffce6b0e942f6_min.png"
+    },
+    {
+      "id": "uairango-10999-3635753",
+      "sourceId": 3635753,
+      "sourceName": "Fandangos de churrasco 37g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3406901",
+      "sourceId": 3406901,
+      "sourceName": "Fandangos de queijo 37g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/dbda086e43835b3a3a18d8a6b4201dc6_min.png"
+    },
+    {
+      "id": "uairango-10999-3406835",
+      "sourceId": 3406835,
+      "sourceName": "Fandangos sabor queijo 85g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/033f54a6defa45e16cd4419fc82cb4d1_min.png"
+    },
+    {
+      "id": "uairango-10999-3528965",
+      "sourceId": 3528965,
+      "sourceName": "Fini Bananas 15g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3528983",
+      "sourceId": 3528983,
+      "sourceName": "Fini Marsh Torção Pacote Grande",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3528957",
+      "sourceId": 3528957,
+      "sourceName": "Fini Tubes Morango 15g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3528969",
+      "sourceId": 3528969,
+      "sourceName": "Fini Tubes Tutti Frutti 15g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-568777",
+      "sourceId": 568777,
+      "sourceName": "Fofura",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/0caa395260763c085d6c1111a264efa6_min.png"
+    },
+    {
+      "id": "uairango-10999-3406897",
+      "sourceId": 3406897,
+      "sourceName": "Fofura churrasco 60g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/d761e65c1f437e2a4ecf67ae09c423ab_min.png"
+    },
+    {
+      "id": "uairango-10999-3406895",
+      "sourceId": 3406895,
+      "sourceName": "Fofura presunto 60g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/e8e9359ee88efc71cbefc18d40d275db_min.png"
+    },
+    {
+      "id": "uairango-10999-3528933",
+      "sourceId": 3528933,
+      "sourceName": "Fruitella Morango Vita Goma",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3528937",
+      "sourceId": 3528937,
+      "sourceName": "Frutella Morrango Bala",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1240617",
+      "sourceId": 1240617,
+      "sourceName": "Halls",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/c44c5b9877d0df9c6b92232a595c489e_min.png"
+    },
+    {
+      "id": "uairango-10999-3479069",
+      "sourceId": 3479069,
+      "sourceName": "Lays Sal e Vinagre",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3519449",
+      "sourceId": 3519449,
+      "sourceName": "Lays sour cream",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/239816-batata-frita-lisa-lays-sour-cream-62g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1573525/239816_0.png?v=639160187767730000"
+    },
+    {
+      "id": "uairango-10999-3479067",
+      "sourceId": 3479067,
+      "sourceName": "Lays tradicional",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3528939",
+      "sourceId": 3528939,
+      "sourceName": "Mentos Frutas Vermelhas",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/132769-bala-mentos-stick-frutas-vermelhas--37-5g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1547143/132769_0.png?v=638930464418200000"
+    },
+    {
+      "id": "uairango-10999-3528917",
+      "sourceId": 3528917,
+      "sourceName": "Mentos Pure fruit 3 camadas",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3528927",
+      "sourceId": 3528927,
+      "sourceName": "Mentos Rainbow Stick",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/133066-confeito-sortido-mentos-rainbow-pacote-37-5g-14-unidades/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/446600/133066_0.png?v=638556949375870000"
+    },
+    {
+      "id": "uairango-10999-3528985",
+      "sourceId": 3528985,
+      "sourceName": "Mentos Salada de fruta",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3274337",
+      "sourceId": 3274337,
+      "sourceName": "paçocão",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3274335",
+      "sourceId": 3274335,
+      "sourceName": "pe de moça",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3274333",
+      "sourceId": 3274333,
+      "sourceName": "pe de moleke",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1240621",
+      "sourceId": 1240621,
+      "sourceName": "Pirulito",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3103921",
+      "sourceId": 3103921,
+      "sourceName": "Pirulito",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1240659",
+      "sourceId": 1240659,
+      "sourceName": "Ruffles 32g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/677da9bbe502d77d37106bf02771a186_min.png"
+    },
+    {
+      "id": "uairango-10999-3406871",
+      "sourceId": 3406871,
+      "sourceName": "Ruffles cebola e salsa 32 g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/b6989e088cb6bca7ff6d56ba563cb025_min.png"
+    },
+    {
+      "id": "uairango-10999-3406927",
+      "sourceId": 3406927,
+      "sourceName": "Ruffles cebola e salsa 68g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/31e70e3827b0d3f355329a09ea7295c6_min.png"
+    },
+    {
+      "id": "uairango-10999-3406875",
+      "sourceId": 3406875,
+      "sourceName": "Ruffles churrasco 32g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/3f9500574fd08eb293626b679269f6ab_min.png"
+    },
+    {
+      "id": "uairango-10999-3406867",
+      "sourceId": 3406867,
+      "sourceName": "Ruffles original 32g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/6f9b86b78d11ce12de590b25636c4301_min.png"
+    },
+    {
+      "id": "uairango-10999-1240663",
+      "sourceId": 1240663,
+      "sourceName": "Ruffles Original grande 115 g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/cb5b90d88761aed025f55dc116abbe5a_min.png"
+    },
+    {
+      "id": "uairango-10999-3519469",
+      "sourceId": 3519469,
+      "sourceName": "Senações peito de peru 70g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3406839",
+      "sourceId": 3406839,
+      "sourceName": "Sensações frango grelhado 40g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/80adc8575e9880d91e62b29b82cb9796_min.png"
+    },
+    {
+      "id": "uairango-10999-3519463",
+      "sourceId": 3519463,
+      "sourceName": "Sensações frango grelhado 70g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/228680-batata-lays-sensacoes-frango-grelhado-70g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1581354/228680_0.png?v=639235190449830000"
+    },
+    {
+      "id": "uairango-10999-1240635",
+      "sourceId": 1240635,
+      "sourceName": "Torcida",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/875d50b9246b80d7ce53b4f6e75bc57e_min.png"
+    },
+    {
+      "id": "uairango-10999-3403563",
+      "sourceId": 3403563,
+      "sourceName": "Torcida bacon 35g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/228670-salgadinho-torcida-bacon-35g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1555935/228670_0.png?v=638932120278800000"
+    },
+    {
+      "id": "uairango-10999-3403567",
+      "sourceId": 3403567,
+      "sourceName": "Torcida costelinha com limão 35g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/228674-salgadinho-torcida-costelinha-com-limao-35g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1555951/228674_0.png?v=638932120890030000"
+    },
+    {
+      "id": "uairango-10999-3165003",
+      "sourceId": 3165003,
+      "sourceName": "Torcida de Pimenta",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/eee76a9aa0c5958d8f50caf1449fdbfa_min.png"
+    },
+    {
+      "id": "uairango-10999-3403571",
+      "sourceId": 3403571,
+      "sourceName": "Torcida queijo 35g",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "https://www.supernosso.com/228677-salgadinho-torcida-queijo-35g/p",
+      "imageUrl": "https://supernossoio.vteximg.com.br/arquivos/ids/1555963/228677_0.png?v=638932121362970000"
+    },
+    {
+      "id": "uairango-10999-3403615",
+      "sourceId": 3403615,
+      "sourceName": "trakinas chocolate",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/95419e0a7ecc461d79612c67c073bcad_min.png"
+    },
+    {
+      "id": "uairango-10999-3403605",
+      "sourceId": 3403605,
+      "sourceName": "Trakinas Morango",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/583cfeee78351d1875b5db4ff0d0c65e_min.png"
+    },
+    {
+      "id": "uairango-10999-2074967",
+      "sourceId": 2074967,
+      "sourceName": "trident",
+      "sourceCategory": "SALGADINHOS E DOCES",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/39073a5bc028043a9b0524f4c887d83f_min.png"
+    },
+    {
+      "id": "uairango-10999-3075645",
+      "sourceId": 3075645,
+      "sourceName": "Borracha mangueira",
+      "sourceCategory": "RELACIONADO A TABACARIA",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3075647",
+      "sourceId": 3075647,
+      "sourceName": "Borracha Rosh",
+      "sourceCategory": "RELACIONADO A TABACARIA",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3075649",
+      "sourceId": 3075649,
+      "sourceName": "Borracha Vaso",
+      "sourceCategory": "RELACIONADO A TABACARIA",
+      "option": "Único",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1240719",
+      "sourceId": 1240719,
+      "sourceName": "Papel Aluminio 50 Folhas",
+      "sourceCategory": "RELACIONADO A TABACARIA",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/800d38735829bd75d07335fa74daa0a5_min.png"
+    },
+    {
+      "id": "uairango-10999-1240687",
+      "sourceId": 1240687,
+      "sourceName": "Papel Aluminio unid",
+      "sourceCategory": "RELACIONADO A TABACARIA",
+      "option": "Único",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/21ecd3a840d9fb87e2b7e58ac0abbfd6_min.png"
+    },
+    {
+      "id": "uairango-10999-1834227",
+      "sourceId": 1834227,
+      "sourceName": "cuia de silicone",
+      "sourceCategory": "HEAD SHOP",
+      "option": "Unico",
+      "imageSource": "UaiRango",
+      "imageUrl": "https://cdn2.uairango.com/produtos/26b720f3d0b45e36bcb56c0bafec4244_min.png"
+    },
+    {
+      "id": "uairango-10999-3359057",
+      "sourceId": 3359057,
+      "sourceName": "Dichavador acrilico grande",
+      "sourceCategory": "HEAD SHOP",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3359069",
+      "sourceId": 3359069,
+      "sourceName": "Kit Tesoura e cuia to na bê",
+      "sourceCategory": "HEAD SHOP",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3377713",
+      "sourceId": 3377713,
+      "sourceName": "Piteira de vidro",
+      "sourceCategory": "HEAD SHOP",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-1834225",
+      "sourceId": 1834225,
+      "sourceName": "slik",
+      "sourceCategory": "HEAD SHOP",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    },
+    {
+      "id": "uairango-10999-3359067",
+      "sourceId": 3359067,
+      "sourceName": "Tesoura TO NA BE",
+      "sourceCategory": "HEAD SHOP",
+      "option": "Unico",
+      "imageSource": null,
+      "imageUrl": null
+    }
+  ],
+  "issues": [
+    {
+      "id": "uairango-10999-3529147",
+      "name": "ABSOLUT — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529149",
+      "name": "ABSOLUT COM RED BULL — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3605815",
+      "name": "Bob Pinga — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3605791",
+      "name": "Busca Brisa — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529143",
+      "name": "CAVALO BRANCO — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529145",
+      "name": "CAVALO BRANCO COM RED BULL — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529131",
+      "name": "GIN ETERNITY COCO E AÇAI — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529129",
+      "name": "GIN ETERNITY MAÇÃ VERDE — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529123",
+      "name": "GIN ETERNITY MELANCIA — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529125",
+      "name": "GIN ETERNITY TROPICAL — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529135",
+      "name": "MALIBU — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529137",
+      "name": "RED LABEL — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529139",
+      "name": "RED LABEL COM RED BULL — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529151",
+      "name": "SMIRNOFF — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529153",
+      "name": "SMIRNOFF COM RED BULL — Copão 700ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3453573",
+      "name": "Imperio Ultra 350ml (sem glutem)",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3518959",
+      "name": "FARDO Eisenbahn 350ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3523109",
+      "name": "Cerveja PRAYA",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3595959",
+      "name": "Imperio Larger verde puro malt",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3595957",
+      "name": "Imperio Ultra 275ml (sem glutem)",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529167",
+      "name": "BALENNA DE COCO",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529165",
+      "name": "BALENNA DE MORANGO",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3529109",
+      "name": "Copo de Gin Eternity Melancia",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3377701",
+      "name": "Ice leev maçã verde",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3595963",
+      "name": "ice leev melancia",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3408125",
+      "name": "Mix para drink morango (coco leve)  200ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3595967",
+      "name": "Ready gin Melancia",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3595969",
+      "name": "Ready gin tonica",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3595965",
+      "name": "Redady Gin Melancia",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3507869",
+      "name": "Skol Beats Tropical Long Neck",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3664206",
+      "name": "Xeque Mate",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3073981",
+      "name": "combo tanqueray",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3231171",
+      "name": "combo Jim Beam Honey",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3707904",
+      "name": "Bob Pinga",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3707898",
+      "name": "Busca Brisa",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3707902",
+      "name": "Busca Brisa 2",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-2160131",
+      "name": "Combo Gin Beefeater pink",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3093281",
+      "name": "Combo GIN Beefeater Tradicional",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3407403",
+      "name": "combo gin eternity  Açai e coco",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3407401",
+      "name": "combo gin eternity  Maça verde",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3407399",
+      "name": "combo gin eternity  Melancia",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-1233935",
+      "name": "Combo Jack Daniels",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-2565329",
+      "name": "Combo Jack Daniels Blackbarry",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-2095265",
+      "name": "Combo jack daniels honey",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3231181",
+      "name": "combo jim beam",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-568637",
+      "name": "Combo Red Label",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3244909",
+      "name": "Gin eternit  maça verde  combo",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3244907",
+      "name": "Gin maça verde eternit",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3671966",
+      "name": "OldParr",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3434307",
+      "name": "Contra Acebolado",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3434309",
+      "name": "Nuggets",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3507883",
+      "name": "Gatorade Zero 350ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3475631-vodka",
+      "name": "MANSAO MAROMBA — Vodka",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3475631-tropical",
+      "name": "MANSAO MAROMBA — Tropical",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3475631-whisk",
+      "name": "MANSAO MAROMBA — Whisk",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3475631-melancia",
+      "name": "MANSAO MAROMBA — Melancia",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3605819",
+      "name": "Bob Pinga",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3605817",
+      "name": "Busca Brisa",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3337863",
+      "name": "Canelinha DA Rocha 275ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3619551",
+      "name": "Chardonay Chileno",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3619557",
+      "name": "Chardonay Chileno, Vinho branco",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3130571",
+      "name": "Ballantaimes",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3221633",
+      "name": "Ballantaimes Sunshine (abacaxi)",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3211649",
+      "name": "master gold",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3671962",
+      "name": "OldParr",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3539047",
+      "name": "Pitu Banana",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3408147",
+      "name": "Pitu de caju 350 ml",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3507857",
+      "name": "Monster Mango loco Zero",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-2333595",
+      "name": "Gelo Abacaxi Cavalo branco",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3310323",
+      "name": "Del Valle 1,5",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3281607",
+      "name": "KAPO",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3274345",
+      "name": "amendoim salgado kaçulinha",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3279399",
+      "name": "bala lua cheia",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3362239",
+      "name": "bala yogurte",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3456671",
+      "name": "Cajuzinho",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3092453",
+      "name": "Cheetos assado requeijao 39g",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3567541",
+      "name": "Doritos Sweet Chili",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3635753",
+      "name": "Fandangos de churrasco 37g",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528965",
+      "name": "Fini Bananas 15g",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528983",
+      "name": "Fini Marsh Torção Pacote Grande",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528957",
+      "name": "Fini Tubes Morango 15g",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528969",
+      "name": "Fini Tubes Tutti Frutti 15g",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528933",
+      "name": "Fruitella Morango Vita Goma",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528937",
+      "name": "Frutella Morrango Bala",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3479069",
+      "name": "Lays Sal e Vinagre",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3479067",
+      "name": "Lays tradicional",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528917",
+      "name": "Mentos Pure fruit 3 camadas",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3528985",
+      "name": "Mentos Salada de fruta",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3274337",
+      "name": "paçocão",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3274335",
+      "name": "pe de moça",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3274333",
+      "name": "pe de moleke",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-1240621",
+      "name": "Pirulito",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3103921",
+      "name": "Pirulito",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3519469",
+      "name": "Senações peito de peru 70g",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3075645",
+      "name": "Borracha mangueira",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3075647",
+      "name": "Borracha Rosh",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3075649",
+      "name": "Borracha Vaso",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3359057",
+      "name": "Dichavador acrilico grande",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3359069",
+      "name": "Kit Tesoura e cuia to na bê",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3377713",
+      "name": "Piteira de vidro",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-1834225",
+      "name": "slik",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-3359067",
+      "name": "Tesoura TO NA BE",
+      "reason": "Foto específica ainda não confirmada"
+    },
+    {
+      "id": "uairango-10999-2819883",
+      "name": "fardo brahma duplo malte 350ml",
+      "reason": "Quantidade de unidades do fardo não informada na fonte"
+    },
+    {
+      "id": "uairango-10999-1235563",
+      "name": "Fardo Budweiser",
+      "reason": "Quantidade de unidades do fardo não informada na fonte"
+    },
+    {
+      "id": "uairango-10999-3518959",
+      "name": "FARDO Eisenbahn 350ml",
+      "reason": "Quantidade de unidades do fardo não informada na fonte"
+    },
+    {
+      "id": "uairango-10999-1235593",
+      "name": "Fardo Itaipava",
+      "reason": "Quantidade de unidades do fardo não informada na fonte"
+    },
+    {
+      "id": "uairango-10999-3231171",
+      "name": "combo Jim Beam Honey",
+      "reason": "Composição do combo não informada na fonte"
+    },
+    {
+      "id": "uairango-10999-3231181",
+      "name": "combo jim beam",
+      "reason": "Composição do combo não informada na fonte"
+    }
+  ]
+}

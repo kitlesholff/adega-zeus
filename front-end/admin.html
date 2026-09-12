@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="theme-color" content="#03060d" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Zeus Admin" />
+    <link rel="manifest" href="admin.webmanifest" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/pwa/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/pwa/favicon-32.png" />
+    <title>Painel | Adega Zeus</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=20260912-audit" />
+    <link rel="stylesheet" href="css/cash-closing.css?v=8" />
+  </head>
+  <body class="admin-body">
+    <section class="admin-login" id="adminLogin" hidden>
+      <div class="login-card">
+        <div class="brand"><span class="brand-logo-shell"><img class="brand-logo" src="assets/pwa/zeus.png" alt="" /></span><span><strong>ZEUS</strong><small>Painel administrativo</small></span></div>
+        <h1>Acesso restrito</h1>
+        <p id="loginHint">Entre para gerenciar produtos e conferir pedidos.</p>
+        <form id="loginForm">
+          <label id="emailLabel">E-mail<input type="email" name="email" autocomplete="username" placeholder="admin@empresa.com" /></label>
+          <label>Senha ou PIN<input type="password" name="password" required autocomplete="current-password" placeholder="••••••••" /></label>
+          <button class="primary-button" type="submit">Entrar no painel</button>
+        </form>
+      </div>
+    </section>
+
+    <div class="admin-shell" id="adminShell" hidden>
+      <aside class="admin-sidebar">
+        <div class="brand"><span class="brand-logo-shell"><img class="brand-logo" src="assets/pwa/zeus.png" alt="" /></span><span><strong>ZEUS</strong><small>Administração</small></span></div>
+        <nav>
+          <button class="nav-item active" data-view="orders">Pedidos <b id="pendingBadge">0</b></button>
+          <button class="nav-item" data-view="products">Produtos</button>
+          <button class="nav-item" data-view="dashboard">Painel</button>
+          <button class="nav-item" data-view="cashClosing">Caixa</button>
+          <button class="nav-item" data-view="control">Controle geral</button>
+        </nav>
+        <div class="mode-indicator is-closed" id="cashStatus" role="status" aria-live="polite"><span aria-hidden="true"></span><div><strong id="modeTitle">Caixa fechado</strong><small id="modeText">Novo ciclo pronto para iniciar</small></div></div>
+        <a class="view-site-button" href="index.html" target="_blank" rel="noopener"><span aria-hidden="true">↗</span> Ver site</a>
+        <button class="logout-button" id="logoutButton">Sair</button>
+      </aside>
+
+      <main class="admin-main">
+        <header class="admin-header"><div><span class="eyebrow">Adega &amp; Tabacaria Zeus</span><h1 id="viewTitle">Pedidos</h1></div><button class="mobile-menu" id="mobileMenu">Menu</button></header>
+
+        <section class="admin-view" id="ordersView">
+          <div class="stats"><article><span>Aguardando</span><strong id="statPending">0</strong></article><article><span>Confirmados</span><strong id="statConfirmed">0</strong></article><article><span>Total registrado</span><strong id="statRevenue">R$ 0,00</strong></article><article class="pending-value"><span>Valor pendente</span><strong id="statPendingValue">R$ 0,00</strong></article></div>
+          <div class="panel-card"><div class="panel-heading"><div><h2 id="ordersHeading">Pedidos aguardando confirmação</h2><p id="ordersDescription">Compare o código e o total com a mensagem recebida no WhatsApp.</p></div><div class="panel-heading-actions"><span class="auto-refresh-status"><i></i><span id="lastRefresh">Atualização automática ativa</span></span><button class="primary-button compact" id="addManualOrder">+ Pedido presencial</button><button class="refresh-button" id="refreshOrders"><span class="refresh-icon">↻</span><span>Atualizar agora</span></button></div></div><div class="order-status-filters" role="group" aria-label="Status dos pedidos">
+            <button type="button" class="order-status-filter active" data-order-filter="pending" aria-pressed="true" aria-controls="ordersList">Aguardando <b id="pendingFilterBadge">0</b></button>
+            <button type="button" class="order-status-filter " data-order-filter="confirmed" aria-pressed="false" aria-controls="confirmedOrdersList">Confirmados <b id="confirmedBadge">0</b></button>
+            <button type="button" class="order-status-filter " data-order-filter="cancelled" aria-pressed="false" aria-controls="cancelledOrdersList">Cancelados <b id="cancelledBadge">0</b></button>
+          </div><div class="orders-list" id="ordersList"></div><div class="orders-list" id="confirmedOrdersList" hidden></div><div class="orders-list" id="cancelledOrdersList" hidden></div></div>
+        </section>
+
+        <section class="admin-view" id="productsView" hidden>
+          <div class="panel-card catalog-import"><button class="secondary-button compact" type="button" id="importZeusCatalog">Importar catálogo Zeus</button><p id="catalogImportStatus" role="status">Cadastre bebidas, alimentos e acessórios da planilha como produtos editáveis. Registros já importados são preservados.</p></div>
+          <div class="panel-card"><div class="panel-heading products-heading"><div><h2>Produtos</h2><p>Filtre o catálogo, gerencie categorias e controle o estoque.</p></div><div class="product-toolbar"><label>Pesquisar<input id="productSearch" type="search" placeholder="Nome ou descrição" autocomplete="off" /></label><label>Categoria<select id="productCategoryFilter"><option value="all">Todas as categorias</option></select></label><button class="secondary-button compact" id="manageCategories">Categorias</button><button class="primary-button compact" id="addProduct">+ Novo produto</button></div></div><div class="admin-products" id="adminProducts"></div></div>
+        </section>
+        <section class="admin-view dashboard-view" id="dashboardView" hidden>
+          <div class="dashboard-toolbar">
+            <div class="dashboard-intro"><span class="eyebrow">Central de inteligência</span><h2>Visão geral do negócio</h2><p>Acompanhe o desempenho financeiro e os pedidos em tempo real.</p></div>
+            <div class="dashboard-controls"><span class="dashboard-live"><i></i>Dados sincronizados</span><label>Período<select id="dashboardPeriod"><option value="today">Hoje</option><option value="7" selected>Últimos 7 dias</option><option value="30">Últimos 30 dias</option><option value="all">Todo o período</option></select></label></div>
+          </div>
+          <div class="dashboard-stats">
+            <article class="metric-card income" data-icon="↗"><span>Entradas confirmadas</span><strong id="dashIncome">R$ 0,00</strong><small id="dashIncomeCount">0 pedidos</small><button type="button" class="metric-help" aria-label="Sobre entradas confirmadas" aria-describedby="help-dashIncome"></button><span id="help-dashIncome" class="metric-help-description">Soma das vendas confirmadas em dinheiro, Pix e cartão no período selecionado. Pedidos pendentes e cancelados não entram neste valor.</span></article>
+            <article class="metric-card outcome" data-icon="↘"><span>Saídas registradas</span><strong id="dashOutcome">R$ 0,00</strong><small id="dashOutcomeCount">0 lançamentos</small><button type="button" class="metric-help" aria-label="Sobre saídas registradas" aria-describedby="help-dashOutcome"></button><span id="help-dashOutcome" class="metric-help-description">Despesas registradas no período, incluindo as lançadas na aba Caixa. Para registrar uma nova saída, abra Caixa → Registrar movimentação.</span></article>
+            <article class="metric-card orders" data-icon="▣"><span>Total de pedidos</span><strong id="dashOrdersTotal">0</strong><small id="dashOrdersStatus">0 confirmados · 0 cancelados</small><button type="button" class="metric-help" aria-label="Sobre o total de pedidos" aria-describedby="help-dashOrdersTotal"></button><span id="help-dashOrdersTotal" class="metric-help-description">Quantidade total de pedidos confirmados e cancelados no período selecionado. Pedidos pendentes não entram neste total.</span></article>
+            <article class="metric-card conversion" data-icon="%"><span>Taxa de confirmação</span><strong id="dashConversion">0%</strong><small>Sobre pedidos decididos</small><button type="button" class="metric-help" aria-label="Sobre taxa de confirmação" aria-describedby="help-dashConversion"></button><span id="help-dashConversion" class="metric-help-description">Percentual de pedidos confirmados entre os pedidos já decididos: confirmados ÷ (confirmados + cancelados). Os pendentes ficam fora do cálculo.</span></article>
+          </div>
+          <div class="dashboard-grid">
+            <article class="dashboard-card cashflow-card"><div class="dashboard-card-head"><div><span class="card-kicker">Desempenho</span><h3>Fluxo de receita</h3><p>Compare entradas confirmadas e saídas registradas por dia</p></div><div class="chart-head-actions"><div class="chart-mode" role="group" aria-label="Tipo do gráfico"><button class="active" data-chart-mode="value">Valores</button><button data-chart-mode="count">Registros</button></div><div class="chart-legend"><span class="income-dot">Entradas</span><span class="outcome-dot">Saídas</span></div></div></div><div class="cashflow-chart" id="cashflowChart"></div></article>
+            <article class="dashboard-card"><div class="dashboard-card-head"><div><h3>Produtos mais e menos vendidos</h3><p>At? 3 mais vendidos e 10 menos vendidos em pedidos confirmados</p></div></div><div class="dashboard-ranking product-sales-ranking" id="topProducts"></div></article>
+            <article class="dashboard-card"><div class="dashboard-card-head"><div><h3>Movimentações recentes</h3><p>Últimas mudanças financeiras do período</p></div></div><div class="movement-list" id="recentMovements"></div></article>
+            <article class="dashboard-card channel-card"><div class="dashboard-card-head"><div><span class="card-kicker">Origem das vendas</span><h3>Pedidos por canal</h3><p>Compare as vendas presenciais com os pedidos recebidos online</p></div></div><div class="sales-channels" id="salesChannels"></div></article>
+          </div>
+        </section>
+
+<section class="admin-view cash-closing-view" id="cashClosingView" hidden></section>
+        <section class="admin-view general-control-view" id="controlView" hidden>
+          <div class="control-toolbar">
+            <div class="control-intro"><span class="eyebrow">Administração e segurança</span><h2>Central de controle</h2><p>Faça cópias dos registros e gerencie um novo início sem alterar o catálogo.</p></div>
+            <span class="control-secure-badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 5 6v5c0 4.6 2.8 8.6 7 10 4.2-1.4 7-5.4 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-5"/></svg> Área protegida</span>
+          </div>
+
+          <div class="control-stats">
+            <article><span>Pedidos registrados</span><strong id="controlOrders">0</strong></article>
+            <article class="positive"><span>Entradas confirmadas</span><strong id="controlIncome">R$ 0,00</strong></article>
+            <article class="negative"><span>Saídas registradas</span><strong id="controlExpenses">R$ 0,00</strong></article>
+            <article class="balance"><span>Saldo atual</span><strong id="controlBalance">R$ 0,00</strong></article>
+            <article><span>Produtos preservados</span><strong id="controlProducts">0</strong></article>
+          </div>
+
+          <div class="control-grid">
+            <article class="control-card export-control-card">
+              <div class="control-card-head">
+                <span class="control-card-icon export"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4-4M5 18v2h14v-2"/></svg></span>
+                <div><span class="card-kicker">Cópia dos dados</span><h3>Exportar registros</h3><p>Gere um relatório completo antes de limpar ou arquivar o histórico.</p></div>
+              </div>
+              <div class="export-content-list"><span>Pedidos e itens</span><span>Entradas e saídas</span><span>Produtos cadastrados</span></div>
+              <div class="control-actions">
+                <button class="control-button pdf" id="exportControlPdf" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v5h5M9.5 16h5M9.5 12h5"/></svg><span><strong>Exportar PDF</strong><small>Relatório para impressão</small></span></button>
+                <button class="control-button sheet" id="exportControlSheet" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h14v18H5zM5 9h14M10 9v12M10 13h9M10 17h9"/></svg><span><strong>Exportar planilha</strong><small>Arquivo compatível com Excel</small></span></button>
+              </div>
+              <small class="control-backup-status" id="controlBackupStatus">Nenhuma exportação realizada nesta sessão.</small>
+            </article>
+
+            <article class="control-card reset-control-card">
+              <div class="control-card-head">
+                <span class="control-card-icon danger"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 2.8 20h18.4L12 3Z"/><path d="M12 9v5m0 3v.1"/></svg></span>
+                <div><span class="card-kicker">Zona de risco</span><h3>Começar do zero</h3><p>Remove definitivamente o histórico operacional salvo no sistema.</p></div>
+              </div>
+              <div class="reset-scope">
+                <div><span>Pedidos</span><strong id="resetScopeOrders">0 registros</strong></div>
+                <div><span>Saídas financeiras</span><strong id="resetScopeExpenses">0 registros</strong></div>
+              </div>
+              <div class="preserved-data"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 12 4 4 8-9"/></svg><span><strong>Catálogo e acesso serão preservados</strong><small>Produtos, categorias, disponibilidade, imagens e usuários não serão apagados. Caixas e comprovantes também serão removidos pelo reset.</small></span></div>
+              <button class="danger-reset-button" id="openResetData" type="button"><span>⟲</span> Iniciar reset protegido</button>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="productDialog" class="product-dialog">
+      <form method="dialog" id="productForm">
+        <nav class="product-type-tabs" aria-label="Tipo de cadastro"><button type="button" data-product-type="product" aria-pressed="true">Produto</button><button type="button" data-product-type="box" aria-pressed="false">Fardo</button><button type="button" data-product-type="kit" aria-pressed="false">Combo</button></nav>
+        <div class="drawer-head"><div><span class="eyebrow">Catálogo</span><h2 id="dialogTitle">Editar produto</h2></div><button class="icon-button" value="cancel" type="submit" formnovalidate aria-label="Fechar">×</button></div>
+        <label id="boxBaseField" hidden>Cerveja do catálogo<select id="boxBaseProduct"><option value="">Selecione uma cerveja cadastrada</option></select><small>A fardo será vinculado a esta cerveja, com preço e imagem próprios.</small></label>
+        <input type="hidden" name="id" />
+        <label>Nome<input name="name" required maxlength="240" /><small id="kitNameHelp" hidden>Ao selecionar componentes, o nome combina os produtos. Itens não vendidos separadamente podem ser descritos pelo nome.</small></label>
+        <label id="standaloneBoxUnitsField" hidden>Unidades no fardo<input name="standaloneBoxUnits" type="number" min="2" max="100" step="1" /></label>
+        <label>Descrição<textarea name="description" maxlength="2000"></textarea></label>
+        <div class="form-row"><label>Preço<input name="price" required type="number" min="0" step="0.01" /></label><label>Categoria<select name="category" id="productCategorySelect" required></select></label></div>
+        <label class="switch-label promotion-switch"><input name="hasPromotion" id="productHasPromotion" type="checkbox" /> Colocar em promoção <small>O preço original será preservado.</small></label>
+        <section class="product-kit-fields product-promotion-fields" id="productPromotionFields" hidden>
+          <label>Preço promocional (R$)<input name="salePrice" type="number" min="0.01" max="99999999.99" step="0.01" inputmode="decimal" /><small>Deve ser maior que zero e menor que o preço original.</small></label>
+          <label>Nome da promoção<input name="promotionLabel" maxlength="50" placeholder="Ex.: Promoção de fim de ano" /><small>Se ficar vazio, será exibido apenas “Promoção”.</small></label>
+        </section>
+        <label class="switch-label kit-switch" hidden><input name="isKit" id="productIsKit" type="checkbox" /> Este produto é um kit <small>Combine dois ou mais produtos e venda como uma única opção.</small></label>
+        <section class="product-kit-fields" id="productKitFields" hidden>
+          <div class="product-kit-head"><div><strong>Itens do combo</strong><small>Escolha os produtos e as quantidades incluídas.</small></div><button class="secondary-button compact" type="button" id="addKitItem">+ Adicionar item</button></div>
+          <div class="product-kit-items" id="productKitItems"></div>
+        </section>
+        <label class="switch-label kit-switch" hidden><input name="hasBox" id="productHasBox" type="checkbox" /> Disponibilizar fardo <small>Venda este produto também em umo fardo com quantidade, preço e foto próprios.</small></label>
+        <section class="product-kit-fields" id="productBoxFields" hidden>
+          <div class="product-kit-head"><div><strong>Fardo de cerveja</strong><small>Configure a opção separada do produto por unidade.</small></div></div>
+          <div class="form-row"><label>Unidades no fardo<input name="boxUnits" type="number" min="2" max="100" step="1" /></label><label>Preço do fardo<input name="boxPrice" type="number" min="0.01" max="99999999.99" step="0.01" /></label></div>
+          <label class="switch-label promotion-switch"><input name="boxHasPromotion" id="productBoxHasPromotion" type="checkbox" /> Colocar fardo em promoção <small>A promoção será aplicada somente ao fardo; a unidade manterá seu próprio preço.</small></label>
+          <section class="product-box-promotion-fields" id="productBoxPromotionFields" hidden>
+            <label>Preço promocional do fardo (R$)<input name="boxSalePrice" type="number" min="0.01" max="99999999.99" step="0.01" inputmode="decimal" /><small>Deve ser menor que o preço normal do fardo.</small></label>
+            <label>Nome da promoção do fardo<input name="boxPromotionLabel" maxlength="50" placeholder="Ex.: Oferta da caixa fechada" /><small>Se ficar vazio, será exibido apenas “Promoção”.</small></label>
+          </section>
+          <div class="product-image-upload">
+            <div class="product-image-preview"><span id="productBoxImageEmpty">Foto do fardo</span><img id="productBoxImagePreviewImg" alt="Pré-visualização do fardo" hidden /></div>
+            <div class="product-upload-content"><strong>Imagem própria do fardo</strong><p>Use uma foto diferente da embalagem por unidade.</p><input id="productBoxImageFile" type="file" accept="image/jpeg,image/png,image/webp,image/avif" hidden /><label class="upload-image-button" for="productBoxImageFile"><span>↑</span> Selecionar imagem</label><small id="productBoxImageStatus">Nenhum arquivo selecionado</small></div>
+          </div>
+          <label class="image-path-field">Ou informe uma URL/caminho do fardo<input name="boxImage" placeholder="assets/produtos/fardo-cerveja.webp" /></label>
+        </section>
+        <div class="product-image-upload">
+          <div class="product-image-preview" id="productImagePreview"><span id="productImageEmpty">Imagem</span><img id="productImagePreviewImg" alt="Pré-visualização do produto" hidden /></div>
+          <div class="product-upload-content"><strong>Imagem do produto</strong><p>Envie uma imagem JPG, PNG, WEBP ou AVIF de até 5 MB.</p><input id="productImageFile" type="file" accept="image/jpeg,image/png,image/webp,image/avif" hidden /><label class="upload-image-button" for="productImageFile"><span>↑</span> Selecionar imagem</label><small id="productImageStatus">Nenhum arquivo selecionado</small></div>
+        </div>
+        <label class="image-path-field">Ou informe uma URL/caminho<input name="image" placeholder="assets/produtos/imagem.webp" /></label>
+        <label hidden><input name="featured" type="checkbox" /> Configuração anterior de destaque</label>
+        <small class="promotion-carousel-note">Produtos e fardos em promoção aparecem automaticamente no carrossel.</small>
+        <label class="switch-label stock-switch"><input name="available" type="checkbox" /> Produto em estoque <small>Desmarque para ocultar do catálogo público.</small></label>
+        <div class="dialog-actions"><button class="secondary-button" value="cancel" type="submit" formnovalidate>Cancelar</button><button class="primary-button" value="default" type="button" id="saveProduct">Salvar</button></div>
+      </form>
+    </dialog>
+
+    <dialog id="categoryDialog" class="product-dialog category-dialog">
+      <form method="dialog" id="categoryForm">
+        <div class="drawer-head"><div><span class="eyebrow">Organização</span><h2>Categorias</h2></div><button class="icon-button" value="cancel" type="submit" formnovalidate aria-label="Fechar">×</button></div>
+        <div class="category-create"><label>Nova categoria<input id="newCategoryName" maxlength="50" placeholder="Ex.: Destilados" /></label><button class="primary-button" type="button" id="saveCategory">Adicionar</button></div>
+        <div class="category-list" id="categoryList"></div>
+        <div class="dialog-actions"><button class="secondary-button" value="cancel" type="submit" formnovalidate>Fechar</button></div>
+      </form>
+    </dialog>
+
+    <dialog id="manualOrderDialog" class="product-dialog manual-order-dialog">
+      <form method="dialog" id="manualOrderForm">
+        <div class="drawer-head"><div><span class="eyebrow">Venda no balcão</span><h2>Novo pedido presencial</h2></div><button class="icon-button" value="cancel" type="submit" aria-label="Fechar">×</button></div>
+        <div class="form-row"><label>Cliente<input name="customerName" required maxlength="80" value="Cliente balcão" /></label><label>Pagamento<select name="payment" required><option value="Pix">Pix</option><option value="Dinheiro">Dinheiro</option><option value="Cartão de débito">Cartão de débito</option><option value="Cartão de crédito">Cartão de crédito</option></select></label></div>
+        <div class="manual-items-head"><div><strong>Produtos</strong><small>Adicione os itens comprados presencialmente.</small></div><button class="secondary-button compact" type="button" id="addManualItem">+ Produto</button></div>
+        <div class="manual-order-items" id="manualOrderItems"></div>
+        <div class="form-row"><label>Status inicial<select name="status"><option value="confirmed" selected>Confirmado — pagamento recebido</option><option value="pending">Pendente</option></select></label><label>Observações<input name="notes" maxlength="180" placeholder="Opcional" /></label></div>
+        <div class="manual-total"><span>Total do pedido</span><strong id="manualOrderTotal">R$ 0,00</strong></div>
+        <div class="dialog-actions"><button class="secondary-button" value="cancel" type="submit">Cancelar</button><button class="primary-button" value="default" type="button" id="saveManualOrder">Salvar pedido</button></div>
+      </form>
+    </dialog>
+
+    <dialog id="resetDataDialog" class="product-dialog reset-data-dialog">
+      <form method="dialog" id="resetDataForm">
+        <div class="drawer-head"><div><span class="eyebrow">Confirmação obrigatória</span><h2>Resetar histórico</h2></div><button class="icon-button" value="cancel" type="submit" formnovalidate aria-label="Fechar">×</button></div>
+        <div class="reset-dialog-warning"><span>!</span><div><strong>Esta ação não poderá ser desfeita</strong><p>Todos os pedidos, saídas, recebimentos, caixas abertos e históricos de fechamentos (incluindo versões antigas) serão apagados. Use esta limpeza para remover os dados de teste antes da entrega. Produtos, categorias, imagens e acesso administrativo serão preservados.</p></div></div>
+        <label>Senha atual<input name="password" type="password" required autocomplete="current-password" placeholder="Digite sua senha" /></label>
+        <label>Confirmação<input name="confirmation" required autocomplete="off" placeholder="Digite ZERAR" /><small>Digite <strong>ZERAR</strong> exatamente como mostrado.</small></label>
+        <div class="dialog-actions"><button class="secondary-button" value="cancel" type="submit" formnovalidate>Cancelar</button><button class="confirm-reset-button" id="confirmResetData" type="button" disabled>Apagar histórico</button></div>
+      </form>
+    </dialog>
+
+    <dialog id="cashClosingConfirm" class="product-dialog closing-confirm-dialog" aria-labelledby="closingConfirmTitle">
+      <div class="drawer-head"><div><span class="eyebrow">Conferência final</span><h2 id="closingConfirmTitle">Fechar caixa</h2></div><button type="button" class="icon-button" data-close-closing aria-label="Fechar">×</button></div>
+      <div id="closingConfirmSummary"></div>
+      <p id="closingConfirmError" class="closing-message error" role="alert" hidden></p>
+      <p class="closing-help">O fechamento registra uma cópia dos valores conferidos. Novas vendas e alterações posteriores precisam de uma nova versão.</p>
+      <div class="dialog-actions"><button type="button" class="secondary-button" data-close-closing>Voltar</button><button type="button" class="primary-button" id="saveCashClosing">Confirmar fechamento</button></div>
+    </dialog>
+    <dialog id="cashClosingReport" class="product-dialog closing-report-dialog" aria-labelledby="closingReportTitle">
+      <div class="drawer-head"><div><span class="eyebrow">Comprovante salvo</span><h2 id="closingReportTitle">Fechamento de caixa</h2></div><button type="button" class="icon-button" data-close-closing aria-label="Fechar">×</button></div>
+      <div id="closingReportBody"></div>
+      <div class="dialog-actions"><button type="button" class="secondary-button" data-close-closing>Fechar</button><button type="button" class="primary-button" id="printCashClosing">Imprimir / Salvar PDF</button></div>
+    </dialog>
+    <dialog id="promotionDialog" class="product-dialog promotion-dialog" aria-labelledby="promotionTitle">
+      <form id="promotionForm">
+        <div class="drawer-head"><div><span class="eyebrow">Oportunidade de venda</span><h2 id="promotionTitle">Colocar em promoção</h2></div><button class="icon-button" id="closePromotion" type="button" aria-label="Fechar">×</button></div>
+        <div class="promotion-product">
+          <img id="promotionImage" alt="" />
+          <div><span id="promotionCategory"></span><strong id="promotionName"></strong><small id="promotionSales"></small></div>
+        </div>
+        <div class="promotion-original"><span>Preço original</span><strong id="promotionOriginalPrice">R$ 0,00</strong><small>Este valor será preservado.</small></div>
+        <label class="switch-label promotion-switch"><input id="promotionActive" name="promotionActive" type="checkbox" /> Ativar promoção <small>O catálogo e os novos pedidos usarão o preço promocional.</small></label>
+        <label id="promotionPriceField" hidden>Preço promocional (R$)<input name="salePrice" type="number" min="0.01" max="99999999.99" step="0.01" inputmode="decimal" /><small>Deve ser menor que o preço original.</small></label>
+        <p class="closing-message error" id="promotionError" role="alert" hidden></p>
+        <div class="dialog-actions"><button class="secondary-button" id="cancelPromotion" type="button">Cancelar</button><button class="primary-button" id="savePromotion" type="submit">Salvar promoção</button></div>
+      </form>
+    </dialog>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <div class="feedback-notifications" id="feedbackNotifications" aria-live="polite" aria-atomic="false"></div>
+    <dialog class="feedback-dialog" id="feedbackDialog" aria-labelledby="feedbackTitle" aria-describedby="feedbackMessage">
+      <div class="feedback-accent"></div>
+      <div class="feedback-icon" id="feedbackIcon" aria-hidden="true"></div>
+      <div class="feedback-copy">
+        <span class="feedback-kicker" id="feedbackKicker">Confirmação</span>
+        <h2 id="feedbackTitle">Tudo certo</h2>
+        <p id="feedbackMessage"></p>
+      </div>
+      <div class="feedback-actions">
+        <button class="secondary-button" id="feedbackCancel" type="button">Cancelar</button>
+        <button class="feedback-confirm" id="feedbackConfirm" type="button">OK</button>
+      </div>
+    </dialog>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/config.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/product-images.js?v=20260912"></script>
+    <script src="js/storage.js?v=20260912-audit"></script>
+    <script src="js/admin-control.js?v=20260906-reset"></script>
+    <script src="js/cash-closing-core.js?v=1"></script>
+    <script src="js/cash-closing-store.js?v=1"></script>
+    <script src="js/cash-register-core.js?v=5"></script><script src="js/cash-register-store.js?v=6"></script><script src="js/cash-register.js?v=9"></script>
+    <script src="js/admin-feedback.js?v=1"></script>
+    <script src="js/catalog-import.js?v=20260912"></script>
+    <script src="js/admin.js?v=20260912-fardos-combos"></script>
+    <script src="js/dashboard-help.js?v=1"></script>
+    <script src="js/pwa.js?v=1"></script>
+  </body>
+</html>

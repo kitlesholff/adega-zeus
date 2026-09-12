@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#03060d" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Adega Zeus" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/pwa/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/pwa/favicon-32.png" />
+    <meta name="description" content="Bebidas geladas, conveniência e tabacaria com atendimento em Extrema, Minas Gerais." />
+    <title>Adega &amp; Tabacaria Zeus | Extrema</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=20260912-audit" />
+    <link rel="stylesheet" href="css/catalog-navigation.css?v=20260912-alphabetical" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#inicio" aria-label="Adega e Tabacaria Zeus">
+        <span class="brand-logo-shell"><img class="brand-logo" src="assets/pwa/zeus.png" alt="" /></span>
+        <span><strong>ZEUS</strong><small>Adega &amp; Tabacaria</small></span>
+      </a>
+      <button class="cart-button" id="openCart" type="button" aria-label="Abrir carrinho">
+        <span aria-hidden="true">🛒</span>
+        <span>Carrinho</span>
+        <b id="cartCount">0</b>
+      </button>
+    </header>
+
+    <main id="inicio">
+      <section class="hero">
+        <div class="hero-copy">
+          <span class="eyebrow">Do Olimpo para Extrema</span>
+          <h1>Sua resenha<br /><em>começa aqui.</em></h1>
+          <p>Bebida trincando, conveniência e tabacaria. Monte seu pedido e fale direto com a Zeus pelo WhatsApp.</p>
+          <a class="primary-link" href="#produtos">Ver produtos <span>↓</span></a>
+          <a class="location-link" href="https://www.google.com/maps/search/?api=1&amp;query=-22.8541226%2C-46.3127006" target="_blank" rel="noopener">Rua João Rubino, Centro · Extrema — MG</a>
+        </div>
+        <div class="hero-visual" hidden>
+          <div class="hero-carousel" id="heroCarousel" role="region" aria-roledescription="carrossel" aria-label="Produtos em destaque" tabindex="0">
+            <div class="hero-carousel-track"></div>
+            <button class="hero-carousel-control previous" type="button" data-carousel-prev aria-label="Mostrar bebida anterior">‹</button>
+            <button class="hero-carousel-control next" type="button" data-carousel-next aria-label="Mostrar próxima bebida">›</button>
+            <div class="hero-carousel-dots" aria-label="Escolher bebida"></div>
+            <div class="hero-carousel-progress" aria-hidden="true"><span></span></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="benefits" aria-label="Diferenciais">
+        <div class="benefit-item">
+          <span class="benefit-icon fast" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M13.2 2 4.5 13h6l-1 9L19.5 10h-6.1l-.2-8Z" /></svg></span>
+          <p><strong>Pedido rápido</strong><small>Direto no WhatsApp</small></p>
+        </div>
+        <div class="benefit-item">
+          <span class="benefit-icon cold" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 2v20M4.2 6.5l15.6 11M4.2 17.5l15.6-11M8.5 4.5 12 7l3.5-2.5M8.5 19.5 12 17l3.5 2.5M3.5 10 7 12l-3.5 2M20.5 10 17 12l3.5 2" /></svg></span>
+          <p><strong>Sempre gelado</strong><small>Pronto para o consumo</small></p>
+        </div>
+        <div class="benefit-item">
+          <span class="benefit-icon safe" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 3 5 6v5c0 4.6 2.8 8.6 7 10 4.2-1.4 7-5.4 7-10V6l-7-3Z" /><path d="m8.8 12 2.1 2.1 4.5-5" /></svg></span>
+          <p><strong>Compra conferida</strong><small>Total registrado</small></p>
+        </div>
+      </section>
+
+      <section class="catalog" id="produtos">
+        <div class="section-heading">
+          <div><span class="eyebrow">Nosso catálogo</span><h2>Escolha o que vai querer hoje</h2></div>
+          <label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" /><path d="m16 16 4.5 4.5" /></svg><input id="searchInput" type="search" placeholder="Buscar produto" aria-label="Buscar produto" /></label>
+        </div>
+        <nav class="category-navigation" id="categoryNavigation" aria-label="Filtrar produtos por categoria">
+          <div class="category-navigation-heading">
+            <span>Categorias</span>
+            <button class="category-expand" id="expandCategories" type="button" aria-expanded="false" aria-controls="categories" hidden>
+              <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="6" height="6" rx="1" /><rect x="15" y="3" width="6" height="6" rx="1" /><rect x="3" y="15" width="6" height="6" rx="1" /><rect x="15" y="15" width="6" height="6" rx="1" /></svg>
+              <span>Ver todas</span>
+            </button>
+          </div>
+          <div class="category-rail">
+            <button class="category-scroll" id="previousCategories" type="button" aria-label="Ver categorias anteriores" aria-controls="categories" disabled hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 6-6 6 6 6" /></svg></button>
+            <div class="categories" id="categories" role="group" aria-label="Categorias"></div>
+            <button class="category-scroll" id="nextCategories" type="button" aria-label="Ver próximas categorias" aria-controls="categories" disabled hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 6 6 6-6 6" /></svg></button>
+          </div>
+        </nav>
+        <p class="catalog-results" id="catalogResults" role="status" aria-live="polite" aria-atomic="true"></p>
+        <div class="product-grid" id="productGrid"></div>
+        <div class="empty-state" id="emptyState" hidden>Nenhum produto encontrado.</div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="brand footer-brand"><span class="brand-logo-shell"><img class="brand-logo" src="assets/pwa/zeus.png" alt="" /></span><span><strong>ZEUS</strong><small>Adega &amp; Tabacaria</small></span></div>
+      <p>Rua João Rubino, Centro · Extrema — MG</p>
+      <a class="footer-contact" href="https://wa.me/5535984264802" target="_blank" rel="noopener">WhatsApp (35) 98426-4802</a>
+      <small>Venda proibida para menores de 18 anos. Beba com moderação.</small>
+    </footer>
+
+    <div class="overlay" id="overlay" hidden></div>
+    <aside class="cart-drawer" id="cartDrawer" aria-hidden="true" aria-labelledby="cartTitle">
+      <div class="drawer-head"><div><span class="eyebrow">Seu pedido</span><h2 id="cartTitle">Carrinho</h2></div><button id="closeCart" class="icon-button" type="button" aria-label="Fechar">×</button></div>
+      <div class="cart-items" id="cartItems"></div>
+      <div class="cart-empty" id="cartEmpty"><span>🧊</span><h3>Seu carrinho está vazio</h3><p>Adicione alguns produtos para continuar.</p></div>
+      <form class="checkout" id="checkoutForm">
+        <label>Seu nome<input name="customerName" required maxlength="80" placeholder="Como podemos te chamar?" /></label>
+        <label>Entrega ou retirada<select name="deliveryType"><option value="Entrega">Entrega</option><option value="Retirada">Retirada</option></select></label>
+        <label id="addressField">Endereço de entrega<input name="address" maxlength="180" placeholder="Rua, número e bairro" /></label>
+        <label>Forma de pagamento<select name="payment"><option>Pix</option><option>Dinheiro</option><option>Cartão na entrega</option></select></label>
+        <label>Observação<textarea name="notes" maxlength="250" placeholder="Troco, ponto de referência..."></textarea></label>
+        <div class="total-row"><span>Total dos produtos</span><strong id="cartTotal">R$ 0,00</strong></div>
+        <small class="delivery-note">A taxa de entrega, se houver, será confirmada no atendimento.</small>
+        <button class="whatsapp-button" type="submit"><span>WhatsApp</span><strong>Enviar pedido</strong></button>
+      </form>
+    </aside>
+
+    <dialog class="purchase-dialog" id="purchaseDialog" aria-labelledby="purchaseDialogTitle">
+      <form id="purchaseForm">
+        <div class="purchase-dialog-head">
+          <div><span class="eyebrow">Como deseja comprar?</span><h2 id="purchaseDialogTitle">Escolha uma opção</h2></div>
+          <button type="button" class="icon-button" id="closePurchaseDialog" aria-label="Fechar">×</button>
+        </div>
+        <div class="purchase-options" id="purchaseOptions" role="radiogroup" aria-label="Opções de compra"></div>
+        <button class="purchase-confirm" type="submit"><span>Adicionar ao carrinho</span><strong id="purchaseTotal">R$ 0,00</strong></button>
+      </form>
+    </dialog>
+
+    <dialog class="product-image-dialog" id="productImageDialog" aria-labelledby="productImageDialogTitle">
+      <button type="button" class="image-dialog-close" id="closeProductImage" aria-label="Fechar imagem">×</button>
+      <img id="productImageDialogPhoto" alt="" />
+      <strong id="productImageDialogTitle"></strong>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/config.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/product-images.js?v=20260912"></script>
+    <script src="js/storage.js?v=20260912-audit"></script>
+    <script src="js/hero-carousel.js?v=20260912-fardos-combos"></script>
+    <script src="js/app.js?v=20260912-audit"></script>
+    <script src="js/catalog-navigation.js?v=20260905-1"></script>
+    <script src="js/pwa.js?v=1"></script>
+  </body>
+</html>
