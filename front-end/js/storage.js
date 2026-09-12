@@ -77,6 +77,58 @@
   }
 
   window.StoreAPI = {
+    panelRole: null,
+    async getPanelRole() {
+      if (!hasCloud) {
+        this.panelRole = sessionStorage.getItem(adminSessionKey) === 'authenticated' ? 'admin' : null;
+        return this.panelRole;
+      }
+      const { data: session, error: sessionError } = await client.auth.getSession();
+      if (sessionError) throw sessionError;
+      if (!session.session) { this.panelRole = null; return null; }
+      let { data, error } = await client.rpc('panel_role');
+      // Existing owners can keep using the panel while migration 33 is being installed.
+      if (error && ['PGRST202','42883'].includes(error.code)) {
+        const owner = await client.rpc('is_admin');
+        data = owner.data === true ? 'admin' : null; error = owner.error;
+      }
+      if (error) { this.panelRole = null; throw error; }
+      this.panelRole = ['admin','operator'].includes(data) ? data : null;
+      return this.panelRole;
+    },
+    async listOperators() {
+      if (!hasCloud) throw new Error('Gerenciamento de usuários disponível na loja conectada ao Supabase.');
+      const { data, error } = await client.rpc('list_panel_operators');
+      if (error) throw new Error(['PGRST202','42883'].includes(error.code) ? 'Gerenciamento de usuários ainda não ativado. Conclua a instalação no Supabase.' : error.message);
+      return data || [];
+    },
+    async setOperatorActive(userId, active) {
+      if (!hasCloud) throw new Error('Conecte a loja ao Supabase.');
+      const { error } = await client.rpc('set_panel_operator_active', { p_user_id: userId, p_active: active });
+      if (error) throw error;
+    },
+    async createOperator(input) {
+      if (!hasCloud) throw new Error('Conecte a loja ao Supabase para criar usuários.');
+      const { data, error } = await client.functions.invoke('create-panel-operator', { body: input });
+      if (error) {
+        let detail;
+        try { detail = await error.context?.json(); } catch {}
+        const reason = detail?.error || detail?.message || detail?.msg;
+        if (/invalid jwt|missing authorization/i.test(reason || '')) throw new Error('O serviço de usuários recusou a sessão. Entre novamente com seu login de administrador. Se persistir, confira a configuração JWT da função.');
+        throw new Error(reason || 'Não foi possível criar o usuário. Verifique se o serviço de usuários está instalado no Supabase.');
+      }
+      if (data?.error) throw new Error(data.error);
+      if (!data?.id) throw new Error('O serviço não confirmou a criação do usuário.');
+      // Confirm the persisted operator in this project's database, not only the function response.
+      // The operator's user_id has a foreign key to auth.users.
+      const email = String(input.email || '').trim().toLowerCase();
+      let users;
+      try { users = await this.listOperators(); }
+      catch { throw new Error('O serviço respondeu, mas não foi possível verificar o cadastro. Confira a lista de usuários antes de tentar criar novamente.'); }
+      const saved = users.find(user => user.user_id === data.id && String(user.email).trim().toLowerCase() === email && user.active === true);
+      if (!saved) throw new Error('A conta não foi confirmada na lista de operadores desta loja. Não tente entrar ainda; confira a função de criação de usuários no Supabase.');
+      return { ...data, email: saved.email };
+    },
     mode: cloudConfigured ? 'cloud' : 'local',
     client,
     boxCategoryName: /^caixinhas?$/i.test(localStorage.getItem('zeus_box_category_name')||'')?'Fardo':localStorage.getItem('zeus_box_category_name') || 'Fardo',
@@ -340,17 +392,28 @@
         if (authenticated) sessionStorage.setItem(adminSessionKey, 'authenticated');
         return authenticated;
       }
-      const { error } = await client.auth.signInWithPassword({ email, password });
-      if (error) throw error;
+      const { error } = await client.auth.signInWithPassword({ email: String(email || '').trim(), password });
+      if (error) {
+        const messages = {
+          invalid_credentials: 'E-mail ou senha incorretos. Confira os dados cadastrados para este usuário.',
+          email_not_confirmed: 'Este e-mail ainda não foi confirmado. Peça ao administrador para revisar o cadastro.',
+          user_banned: 'Este acesso está bloqueado. Fale com o administrador.',
+          over_request_rate_limit: 'Muitas tentativas de entrada. Aguarde alguns minutos e tente novamente.',
+          request_timeout: 'A conexão demorou para responder. Verifique a internet e tente novamente.'
+        };
+        const message = messages[error.code]
+          || (/invalid login credentials/i.test(error.message || '') ? messages.invalid_credentials : null)
+          || (error.name === 'AuthRetryableFetchError' ? 'Não foi possível conectar à loja. Verifique a internet e tente novamente.' : null)
+          || 'Não foi possível entrar. Confira o acesso com o administrador e tente novamente.';
+        throw new Error(message, { cause: error });
+      }
       return true;
     },
     async isAuthenticated() {
-      if (!hasCloud) return sessionStorage.getItem(adminSessionKey) === 'authenticated';
-      const { data, error } = await client.auth.getSession();
-      if (error) throw error;
-      return Boolean(data.session);
+      return Boolean(await this.getPanelRole());
     },
     async logout() {
+      this.panelRole = null;
       if (!hasCloud) {
         sessionStorage.removeItem(adminSessionKey);
         return;

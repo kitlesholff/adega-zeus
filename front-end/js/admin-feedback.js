@@ -18,7 +18,7 @@
   };
 
   function inferTone(text) {
-    if (/não foi possível|incorret|inválid|erro|negad|falha|indisponível/i.test(text)) return 'danger';
+    if (/invalid|credentials|unauthorized|forbidden|failed|error|denied|não foi possível|incorret|inválid|erro|negad|falha|indisponível/i.test(text)) return 'danger';
     if (/antes de|tem certeza|definitiv|já existe|deve|selecione|adicione|informe|altere/i.test(text)) return 'warning';
     return 'success';
   }
@@ -104,6 +104,7 @@
   document.querySelectorAll('dialog').forEach(panel => {
     panel.addEventListener('click', event => {
       if (!panel.open) return;
+      if (event.target !== panel) return;
       const bounds = panel.getBoundingClientRect();
       const outside = event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom;
       if (!outside) return;

@@ -1,0 +1,2 @@
+[functions.create-panel-operator]
+verify_jwt = true

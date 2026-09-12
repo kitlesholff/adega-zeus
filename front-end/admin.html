@@ -15,7 +15,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=20260912-audit" />
+    <link rel="stylesheet" href="styles.css?v=20260912-manual-suggestions" />
     <link rel="stylesheet" href="css/cash-closing.css?v=8" />
   </head>
   <body class="admin-body">
@@ -27,6 +27,7 @@
         <form id="loginForm">
           <label id="emailLabel">E-mail<input type="email" name="email" autocomplete="username" placeholder="admin@empresa.com" /></label>
           <label>Senha ou PIN<input type="password" name="password" required autocomplete="current-password" placeholder="••••••••" /></label>
+          <p id="loginError" class="login-error" role="alert" hidden></p>
           <button class="primary-button" type="submit">Entrar no painel</button>
         </form>
       </div>
@@ -41,6 +42,7 @@
           <button class="nav-item" data-view="dashboard">Painel</button>
           <button class="nav-item" data-view="cashClosing">Caixa</button>
           <button class="nav-item" data-view="control">Controle geral</button>
+          <button class="nav-item" data-view="users" hidden>Usuários</button>
         </nav>
         <div class="mode-indicator is-closed" id="cashStatus" role="status" aria-live="polite"><span aria-hidden="true"></span><div><strong id="modeTitle">Caixa fechado</strong><small id="modeText">Novo ciclo pronto para iniciar</small></div></div>
         <a class="view-site-button" href="index.html" target="_blank" rel="noopener"><span aria-hidden="true">↗</span> Ver site</a>
@@ -123,6 +125,21 @@
               <div class="preserved-data"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 12 4 4 8-9"/></svg><span><strong>Catálogo e acesso serão preservados</strong><small>Produtos, categorias, disponibilidade, imagens e usuários não serão apagados. Caixas e comprovantes também serão removidos pelo reset.</small></span></div>
               <button class="danger-reset-button" id="openResetData" type="button"><span>⟲</span> Iniciar reset protegido</button>
             </article>
+          </div>
+        </section>
+
+        <section class="admin-view" id="usersView" hidden>
+          <div class="panel-heading"><div><h2>Usuários do painel</h2><p>Crie acessos individuais para sua equipe e desative quando precisar.</p></div></div>
+          <div class="operator-layout">
+            <form id="operatorForm" class="dashboard-card">
+              <h3>Novo operador</h3><p class="operator-permissions">Acesso somente a <strong>Pedidos e Caixa</strong>: pedidos presenciais, confirmações, cancelamentos, movimentações e fechamento.</p>
+              <label>Nome<input name="name" required minlength="2" maxlength="100" autocomplete="off" /></label>
+              <label>E-mail de acesso<input name="email" type="email" required maxlength="254" autocomplete="off" /></label>
+              <label>Senha<input name="password" type="password" required minlength="12" maxlength="128" autocomplete="new-password" /><small>De 12 a 128 caracteres. Entregue a senha diretamente ao operador.</small></label>
+              <button type="submit" class="primary-button">Criar usuário</button>
+              <p id="operatorStatus" role="status" aria-live="polite"></p>
+            </form>
+            <div class="dashboard-card"><h3>Equipe cadastrada</h3><div id="operatorList"></div></div>
           </div>
         </section>
       </main>
@@ -251,14 +268,15 @@
     <script src="js/config.js"></script>
     <script src="js/data.js"></script>
     <script src="js/product-images.js?v=20260912"></script>
-    <script src="js/storage.js?v=20260912-audit"></script>
+    <script src="js/storage.js?v=20260912-registration-check"></script>
     <script src="js/admin-control.js?v=20260906-reset"></script>
     <script src="js/cash-closing-core.js?v=1"></script>
     <script src="js/cash-closing-store.js?v=1"></script>
     <script src="js/cash-register-core.js?v=5"></script><script src="js/cash-register-store.js?v=6"></script><script src="js/cash-register.js?v=9"></script>
-    <script src="js/admin-feedback.js?v=1"></script>
+    <script src="js/admin-feedback.js?v=20260912-suggestions"></script>
     <script src="js/catalog-import.js?v=20260912"></script>
-    <script src="js/admin.js?v=20260912-fardos-combos"></script>
+    <script src="js/admin-users.js?v=20260912-registration-check"></script>
+    <script src="js/admin.js?v=20260912-manual-suggestions"></script>
     <script src="js/dashboard-help.js?v=1"></script>
     <script src="js/pwa.js?v=1"></script>
   </body>

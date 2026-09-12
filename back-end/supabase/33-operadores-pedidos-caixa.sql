@@ -40,7 +40,7 @@ end; $$;
 create or replace function public.register_panel_operator(p_user_id uuid,p_name text,p_email text,p_created_by uuid)
 returns void language plpgsql security definer set search_path='' as $$
 begin
-  if auth.role() <> 'service_role' then raise exception 'Acesso negado.' using errcode='42501'; end if;
+  if auth.role() is distinct from 'service_role' then raise exception 'Acesso negado.' using errcode='42501'; end if;
   if not exists(select 1 from private.admin_users where user_id=p_created_by) then raise exception 'Administrador invalido.'; end if;
   if exists(select 1 from private.admin_users where user_id=p_user_id) then raise exception 'Este usuario ja e administrador.'; end if;
   insert into private.panel_operators(user_id,display_name,email,created_by) values(p_user_id,trim(p_name),lower(trim(p_email)),p_created_by);
