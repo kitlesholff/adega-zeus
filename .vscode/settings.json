@@ -1,5 +1,6 @@
 {
   "deno.enable": true,
+  "deno.path": "./.test-tools/deno/deno.exe",
   "deno.enablePaths": [
     "back-end/supabase/functions"
   ]
